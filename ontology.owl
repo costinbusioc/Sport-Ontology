@@ -173,7 +173,7 @@
     <!-- http://purl.org/sport/ontology/hasSportType -->
 
     <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasSportType">
-        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Athlete"/>
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsEvent"/>
         <rdfs:range rdf:resource="http://dbpedia.org/ontology/Sport"/>
     </owl:ObjectProperty>
     
