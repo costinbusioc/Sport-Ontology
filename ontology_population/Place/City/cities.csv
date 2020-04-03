@@ -1,0 +1,1257 @@
+,City
+0,Side
+1,Pordenone
+2,Duluth
+3,Tarragona
+4,Krabi
+5,Schaffhausen
+6,Saas-Fee
+7,Agadir
+8,Louvain-la-Neuve
+9,Westminster
+10,Havana
+11,Carlisle
+12,Carpinteria
+13,Pompano Beach
+14,Poznan
+15,Waterford
+16,Albufeira
+17,Perpignan
+18,Prague
+19,Livorno
+20,New Smyrna Beach
+21,Algeciras
+22,Clearwater
+23,Glasgow
+24,Cartagena
+25,Aberdeen
+26,Magaluf
+27,Reykjavik
+28,Ushuaia
+29,Braga
+30,Kanchanaburi
+31,Lubbock
+32,Islamorada
+33,Port St. Lucie
+34,Lansing
+35,Benevento
+36,Campobasso
+37,Viareggio
+38,Patras
+39,Antalya
+40,Rehovot
+41,Vilnius
+42,Ogden
+43,Laval
+44,Torrevieja
+45,Le Lavandou
+46,Linz
+47,Panama City
+48,Canyamel
+49,Duisburg
+50,Brampton
+51,Coimbra
+52,Los Cabos
+53,Piraeus
+54,Lucca
+55,Podgorica
+56,Herceg Novi
+57,Hangzhou
+58,Torre del Greco
+59,Bergamo
+60,Key Largo
+61,Obergurgl
+62,Jena
+63,Superior
+64,Cologne
+65,Darwin
+66,Andria
+67,Brno
+68,Gdynia
+69,Southampton
+70,Avellino
+71,Palanga
+72,Savannah
+73,San Juan
+74,Exeter
+75,Košice
+76,Hereford
+77,Hermosa Beach
+78,Leeds
+79,Niagara Falls
+80,Newark
+81,Wellington
+82,Cabo San Lucas
+83,Toronto
+84,Valence
+85,Messina
+86,Lucerne
+87,Menton
+88,Antibes
+89,Ann Arbor
+90,Hue
+91,Charlottetown
+92,Argostoli
+93,Arles
+94,Bourges
+95,Canterbury
+96,Great Falls
+97,Erlangen
+98,Tulum
+99,Hua Hin
+100,Courmayeur
+101,Horsens
+102,Flaine
+103,Kaprun
+104,Braunschweig
+105,Pesaro
+106,Sunshine Coast
+107,Krakow
+108,Rotterdam
+109,Alexandria
+110,Ventura
+111,Sunnyvale
+112,Jackson
+113,Plovdiv
+114,San Bernardino
+115,Omaha
+116,Montepulciano
+117,San Mateo
+118,Isernia
+119,Sopot
+120,Soller
+121,Cozumel
+122,Trier
+123,St. Petersburg
+124,Halifax
+125,Lübeck
+126,Petah Tikva
+127,Lecco
+128,Chandler
+129,Cork
+130,Lincoln
+131,San Sebastián
+132,Minneapolis
+133,Carlsbad
+134,Columbia
+135,Fort Worth
+136,Aigues-Mortes
+137,Heilbronn
+138,Oia
+139,Boca Chica
+140,Montpellier
+141,Atlanta
+142,Breda
+143,Daytona Beach
+144,Negril
+145,Lindos
+146,Columbus
+147,Maspalomas
+148,Honolulu
+149,Hanoi
+150,Nerja
+151,Stockton
+152,Haifa
+153,Sao Paulo
+154,Espace Killy
+155,Glendale
+156,Tauplitz
+157,Treviso
+158,Puerto Plata
+159,Augsburg
+160,Bremerhaven
+161,Geneva
+162,Kavala
+163,Koper
+164,Heraklion
+165,Szczecin
+166,Seefeld
+167,Essaouira
+168,Charleroi
+169,Playa Blanca
+170,Nijmegen
+171,Harrisburg
+172,Geelong
+173,Florence
+174,Poreč
+175,Cuneo
+176,Kos
+177,Marsala
+178,Villefranche-sur-Mer
+179,Bismarck
+180,Saskatoon
+181,Urbino
+182,Avoriaz
+183,Cagnes-sur-Mer
+184,North Port
+185,Seoul
+186,Genoa
+187,Gothenburg
+188,Freeport
+189,Jupiter
+190,Bled
+191,Corpus Christi
+192,Locarno
+193,Boise
+194,Brela
+195,Kyrenia
+196,Gijón
+197,Zell am Ziller
+198,Palermo
+199,Hollywood
+200,Salt Lake City
+201,Civitavecchia
+202,Oaxaca
+203,Rochester
+204,Milan
+205,Odense
+206,Topeka
+207,Limerick
+208,Rouen
+209,Paralia
+210,Wichita
+211,Nha Trang
+212,Lienz
+213,Chartres
+214,Filzmoos
+215,Calvi
+216,Cassis
+217,Arlington
+218,Udine
+219,Zakopane
+220,Buenos Aires
+221,Schladming
+222,Providence
+223,Imola
+224,Preston
+225,Yonkers
+226,Berkeley
+227,Brasilia
+228,Le Mans
+229,Belluno
+230,Ragusa
+231,Bilbao
+232,Stockholm
+233,Beijing
+234,Newcastle
+235,St. John's
+236,Fargo
+237,Chioggia
+238,Moab
+239,Caloundra
+240,Santa Pola
+241,San Jose
+242,Joinville
+243,Umag
+244,Fernandina Beach
+245,Ras al-Khaimah
+246,Beaulieu-sur-Mer
+247,Serre Chevalier
+248,Dolomiti Superski
+249,Mahón
+250,Limoges
+251,Oviedo
+252,Rio de Janeiro
+253,Richmond
+254,Dundalk
+255,Sassari
+256,Essen
+257,Copenhagen
+258,Milwaukee
+259,Norfolk
+260,Montgomery
+261,Largo
+262,Matera
+263,Winchester
+264,Can Picafort
+265,Crotone
+266,Nice
+267,Ocala
+268,Cambrils
+269,London
+270,Vevey
+271,Santiago de Compostela
+272,Budapest
+273,Leipzig
+274,Kotor
+275,St. Augustine
+276,Bielefeld
+277,Zadar
+278,Istanbul
+279,Agde
+280,Oklahoma City
+281,Key West
+282,Valladolid
+283,Nicosia
+284,Wolfsburg
+285,Turin
+286,Christchurch
+287,West Palm Beach
+288,Toulouse
+289,Potsdam
+290,Darmstadt
+291,Wuppertal
+292,Oceanside
+293,Concord
+294,Monza
+295,Agrigento
+296,Merano
+297,Lourdes
+298,Baltimore
+299,Zermatt
+300,St. George
+301,La Romana
+302,Bologna
+303,Daugavpils
+304,Zagreb
+305,Durham
+306,Parma
+307,Anchorage
+308,Provo
+309,Dijon
+310,Seal Beach
+311,Tivoli
+312,Flagstaff
+313,Conil de la Frontera
+314,Cala Ratjada
+315,Murter
+316,Chamonix
+317,Sheffield
+318,Oxnard
+319,Bonn
+320,Maastricht
+321,Karlovy Vary
+322,Alpe d'Huez
+323,Long Beach
+324,Troyes
+325,Fresno
+326,Albuquerque
+327,Rosario
+328,Netanya
+329,New Haven
+330,Tavira
+331,Portsmouth
+332,Bangkok
+333,Porto
+334,Arnhem
+335,Carrara
+336,Finale Ligure
+337,Auckland
+338,Calp
+339,Engelberg
+340,Batumi
+341,Novara
+342,Palavas-les-Flots
+343,Nimes
+344,Costa Adeje
+345,Guangzhou
+346,Davos
+347,Delft
+348,Wollongong
+349,Biel/Bienne
+350,Grossarl
+351,Mazara del Vallo
+352,Toruń
+353,Pasadena
+354,Moscow
+355,Frankfort
+356,Liège
+357,Jūrmala
+358,Plymouth
+359,Bastia
+360,Munich
+361,Sitges
+362,Ålesund
+363,Vilamoura
+364,Dortmund
+365,Fort Lauderdale
+366,Trondheim
+367,Puerto Vallarta
+368,Jerez de la Frontera
+369,Haarlem
+370,Sukhothai
+371,Roskilde
+372,Altea
+373,Blanes
+374,Ankara
+375,Cincinnati
+376,Varese
+377,Winnipeg
+378,Alessandria
+379,Playa del Carmen
+380,Corralejo
+381,Adelaide
+382,Cape Coral
+383,Valencia
+384,Ajman
+385,Ulm
+386,Lublin
+387,Carcassonne
+388,Fermo
+389,Kemer
+390,Amalfi
+391,Santa Ana
+392,Shenzhen
+393,Larnaca
+394,Fez
+395,Garland
+396,Zell am See
+397,Galway
+398,Bath
+399,Ajaccio
+400,Augusta
+401,Henderson
+402,Fukuoka
+403,Pescara
+404,Grosseto
+405,New Orleans
+406,Ischgl
+407,Kuşadası
+408,Piacenza
+409,Andalo
+410,Saint-Malo
+411,Calella
+412,Huntsville
+413,Loano
+414,Tel Aviv
+415,Vigo
+416,Prato
+417,Hinterstoder
+418,Campinas
+419,Barcelona
+420,Perth
+421,Edinburgh
+422,Verbania
+423,Chattanooga
+424,Naples
+425,Biella
+426,Bayonne
+427,Salerno
+428,Tacoma
+429,Fujairah
+430,Virginia Beach
+431,Dresden
+432,Latina
+433,Benidorm
+434,Zug
+435,Tijuana
+436,Colorado Springs
+437,Syracuse
+438,Cala Millor
+439,Canazei
+440,Girona
+441,Courchevel
+442,Fontana
+443,Perugia
+444,Ortisei
+445,Aarhus
+446,Inca
+447,Lyon
+448,Faro
+449,Ayia Napa
+450,Akron
+451,Pozzuoli
+452,Sorrento
+453,Enschede
+454,Hamilton
+455,Inverness
+456,Bradenton
+457,Gelsenkirchen
+458,Corinth
+459,Spokane
+460,Taormina
+461,Vero Beach
+462,Foz do Iguaçu
+463,Dunkirk
+464,Shreveport
+465,Trenton
+466,Amarillo
+467,Porto Cervo
+468,Niort
+469,Tallinn
+470,Plzeň
+471,Hinterglemm
+472,Mechelen
+473,Portorož
+474,Pula
+475,Benalmadena
+476,Lausanne
+477,Koblenz
+478,Ventimiglia
+479,Leicester
+480,Sedona
+481,Kolding
+482,Aracaju
+483,Cortina d'Ampezzo
+484,Ellmau
+485,Cosenza
+486,Grindelwald
+487,Uppsala
+488,Irving
+489,Nassau
+490,Tbilisi
+491,Singapore
+492,Göttingen
+493,Volos
+494,Overland Park
+495,Gorizia
+496,Roanoke
+497,Halle
+498,Winston–Salem
+499,Athlone
+500,Forte dei Marmi
+501,Riviera Maya
+502,Chula Vista
+503,Cleveland
+504,Kalamata
+505,Elche
+506,Houston
+507,Pau
+508,Sacramento
+509,Tivat
+510,Savona
+511,Dubai
+512,Dorfgastein
+513,Railay Beach
+514,Lamezia Terme
+515,Pisa
+516,Santa Barbara
+517,Gatineau
+518,Markham
+519,St. Gallen
+520,Vercelli
+521,Šibenik
+522,Vichy
+523,Manhattan Beach
+524,Lakeland
+525,Ingolstadt
+526,Fiumicino
+527,Morzine
+528,Fredericton
+529,Bad Hofgastein
+530,Dover
+531,Rostock
+532,Cherbourg
+533,La Manga
+534,Caserta
+535,Funchal
+536,Kuala Lumpur
+537,Brownsville
+538,Charleston
+539,Blois
+540,Brixen
+541,Saint Petersburg
+542,Roubaix
+543,Siegen
+544,Olomouc
+545,Utrecht
+546,Anaheim
+547,Rabat
+548,Versailles
+549,Sveti Stefan
+550,Hasselt
+551,Eilat
+552,Armagh
+553,Sant Antoni de Portmany
+554,Dublin
+555,Santa Ponsa
+556,Vicenza
+557,Riverside
+558,Ferrara
+559,Fethiye
+560,Burgas
+561,St Albans
+562,Lille
+563,Detroit
+564,Laguna Beach
+565,Maroochydore
+566,Trapani
+567,Osaka
+568,Palm Bay
+569,San Antonio
+570,Pensacola
+571,Santa Margherita Ligure
+572,Aachen
+573,Abu Dhabi
+574,Sofia
+575,Trani
+576,Mesa
+577,La Rochelle
+578,Fremont
+579,Mannheim
+580,San Diego
+581,Boulder
+582,Warth
+583,Brussels
+584,Chicago
+585,Protaras
+586,Palmetto
+587,Mestre
+588,Pembroke Pines
+589,Benicàssim
+590,Jerusalem
+591,Sapporo
+592,Oristano
+593,Lodz
+594,Tamworth
+595,Trento
+596,Didim
+597,Imperia
+598,Monte Rosa
+599,Cesena
+600,Propriano
+601,Gold Coast
+602,Brindisi
+603,Grasse
+604,Yuma
+605,Brisbane
+606,Reggio Emilia
+607,Cancun
+608,Piran
+609,Oldenburg
+610,Narva
+611,Poitiers
+612,Chelmsford
+613,Metz
+614,Tartu
+615,Esbjerg
+616,Santiago
+617,Segovia
+618,Mayrhofen
+619,Manacor
+620,Charlotte
+621,Saint Paul
+622,Aosta
+623,Córdoba
+624,Springfield
+625,Foggia
+626,Erie
+627,St. Anton
+628,Phoenix
+629,Frosinone
+630,Perast
+631,Orléans
+632,Pavia
+633,Cairns
+634,Würzburg
+635,Val di Fassa
+636,Sorocaba
+637,Bodrum
+638,Mobile
+639,Zaragoza
+640,Pescasseroli
+641,Siena
+642,Brixental
+643,Barletta
+644,Salinas
+645,Çeşme
+646,Como
+647,Midland
+648,Folgarida
+649,Surrey
+650,Buffalo
+651,Marbella
+652,Varna
+653,Heiligenblut
+654,Melbourne
+655,Barstow
+656,Alcudia
+657,Salvador
+658,Montego Bay
+659,George Town
+660,Calais
+661,Hat Yai
+662,Lagos
+663,Greensboro
+664,Millau
+665,Loutraki
+666,Jefferson City
+667,Sanremo
+668,San Francisco
+669,Weston
+670,Bandar Seri Begawan
+671,Lisburn
+672,Oulu
+673,Catanzaro
+674,Toowoomba
+675,Boston
+676,Bendigo
+677,Modesto
+678,Porto Torres
+679,Oakland
+680,Indianapolis
+681,Santa Fe
+682,Regensburg
+683,Coral Springs
+684,Portocolom
+685,Khao Lak
+686,Santa Monica
+687,The Hague
+688,Noosa Heads
+689,Jungfrau
+690,Graz
+691,Mexico City
+692,Torre del Mar
+693,Český Krumlov
+694,Hoi An
+695,Rimini
+696,Nürnberg
+697,Varazze
+698,Alta Badia
+699,Söll
+700,Castelrotto
+701,Brighton
+702,Rovigo
+703,Phuket City
+704,Sanford
+705,Stavanger
+706,Lugano
+707,Tossa de Mar
+708,Albany
+709,La Clusaz
+710,Massa
+711,Raleigh
+712,La Maddalena
+713,Reno
+714,Asti
+715,Modica
+716,Dunedin
+717,Mérida
+718,Hyères
+719,Val d’Isère
+720,Kastoria
+721,Nazareth
+722,Erfurt
+723,Palma de Mallorca
+724,Ljubljana
+725,Capdepera
+726,Nantes
+727,Naxos
+728,Praia da Rocha
+729,Moena
+730,Chiavari
+731,Vienna
+732,Scottsdale
+733,Ostrava
+734,Helena
+735,Cocoa Beach
+736,Bad Gastein
+737,Chios
+738,Monterey
+739,Twin Falls
+740,Macerata
+741,Rapallo
+742,Yakima
+743,Santander
+744,Zurich
+745,Calgary
+746,Casper
+747,Paphos
+748,Los Angeles
+749,Montreux
+750,St. Moritz
+751,Amsterdam
+752,Ancona
+753,Louisville
+754,Wroclaw
+755,La Ciotat
+756,Trogir
+757,Jersey City
+758,Puerto Rico de Gran Canaria
+759,Quimper
+760,La Thuile
+761,El Paso
+762,Rethymno
+763,Phetchabun
+764,Hartford
+765,Freiburg
+766,Sharjah
+767,Redondo Beach
+768,Fort Myers
+769,Nelson
+770,Ciutadella de Menorca
+771,Lecce
+772,Edmonton
+773,Gdansk
+774,Sölden
+775,Budva
+776,Canberra
+777,Positano
+778,Manchester
+779,Forlì
+780,Colmar
+781,Bochum
+782,Moreno Valley
+783,Leiden
+784,Tampere
+785,Punta Cana
+786,Bakersfield
+787,Ventspils
+788,Bonifacio
+789,Boynton Beach
+790,Hialeah
+791,North Las Vegas
+792,Westendorf
+793,Liepāja
+794,Chester
+795,Münster
+796,Newport News
+797,Baden
+798,Liverpool
+799,Belgrade
+800,Nevers
+801,Elm
+802,Alghero
+803,La Laguna
+804,Megève
+805,Portimão
+806,Turku
+807,Da Nang
+808,Arrecife
+809,Caltanissetta
+810,Londrina
+811,Palma Nova
+812,Austin
+813,Marmaris
+814,Dachstein-West
+815,Laax
+816,Las Palmas
+817,Interlaken
+818,Lisbon
+819,Vaughan
+820,Middelburg
+821,Annapolis
+822,Quebec
+823,Bemidji
+824,İzmir
+825,Cervinia
+826,Newport
+827,Maribor
+828,Kissimmee
+829,Falmouth
+830,Chania
+831,Aveiro
+832,Viborg
+833,Aspen
+834,Philadelphia
+835,Green Bay
+836,Nashville
+837,Tempe
+838,Liberec
+839,Oberhausen
+840,Oxford
+841,Regina
+842,Cagliari
+843,Redding
+844,Hong Kong
+845,Udon Thani
+846,Padova
+847,New York City
+848,Washington D.C.
+849,Meribel
+850,Puerto de la Cruz
+851,Billings
+852,Wolverhampton
+853,Pittsburgh
+854,Sa Coma
+855,Reims
+856,Rishon LeZion
+857,Ocho Rios
+858,Fayetteville
+859,Paradiski
+860,Marathon
+861,Chonburi
+862,Santa Cruz
+863,Bregenz
+864,Pyeongchang
+865,Wilmington
+866,Palm Beach
+867,Komotini
+868,Carson City
+869,Mytilene
+870,Split
+871,Malia
+872,La Plata
+873,Bordighera
+874,Lexington
+875,Rijeka
+876,Besançon
+877,Lodi
+878,Beverly Hills
+879,Cádiz
+880,Agios Nikolaos
+881,Miami
+882,Vitoria-Gasteiz
+883,Alicante
+884,Oslo
+885,Odessa
+886,Newport Beach
+887,Worcester
+888,Al Ain
+889,Malaga
+890,Osnabrück
+891,Karlsruhe
+892,Les Houches
+893,Ascoli Piceno
+894,Olympia
+895,Plano
+896,Boca Raton
+897,Belo Horizonte
+898,Rennes
+899,Shanghai
+900,Gilbert
+901,Kaunas
+902,Malmö
+903,Sydney
+904,Cape Canaveral
+905,Mainz
+906,Strasbourg
+907,Cremona
+908,Kiel
+909,Val Thorens
+910,Fuengirola
+911,Santa Clarita
+912,Verbier
+913,Brescia
+914,Basel
+915,Nottingham
+916,Alanya
+917,Andermatt
+918,Madison
+919,Verona
+920,Les Menuires
+921,Grand Prairie
+922,Hiroshima
+923,Mykonos
+924,Deerfield Beach
+925,Cheyenne
+926,Fieberbrunn
+927,Santo Domingo
+928,Knoxville
+929,Ioannina
+930,Terni
+931,Des Moines
+932,Pollença
+933,Heidelberg
+934,Estepona
+935,Legnano
+936,Marseille
+937,Faenza
+938,Rodez
+939,Skiathos
+940,Appleton
+941,Stoke-on-Trent
+942,Eau Claire
+943,Caen
+944,Saint-Jean-Cap-Ferrat
+945,Annecy
+946,Lancaster
+947,Salem
+948,Rieti
+949,Grand Rapids
+950,Arezzo
+951,Tignes
+952,Los Cristianos
+953,Belfast
+954,Les Deux Alpes
+955,Coconut Creek
+956,Troy
+957,Bradford
+958,Bruges
+959,Athens
+960,Sioux Falls
+961,Axamer Lizum
+962,Paris
+963,Wengen
+964,Eindhoven
+965,Yokohama
+966,St. Louis
+967,Doha
+968,Ho Chi Minh City
+969,Brest
+970,Bari
+971,Murcia
+972,Bergen
+973,Vibo Valentia
+974,Taranto
+975,Victoria
+976,San Clemente
+977,Tucson
+978,Olbia
+979,Corfu
+980,Rapid City
+981,Pierre
+982,Novigrad
+983,Klagenfurt
+984,Kobe
+985,Angers
+986,Juneau
+987,Hamburg
+988,Lund
+989,Maria Alm
+990,Mountain View
+991,Venice
+992,Klaipėda
+993,Randers
+994,Villach
+995,Clermont-Ferrand
+996,Adelboden
+997,Mogi das Cruzes
+998,Dubrovnik
+999,Rhodes
+1000,Le Havre
+1001,Winterthur
+1002,Hannover
+1003,Tokyo
+1004,Seville
+1005,Bristol
+1006,Toledo
+1007,Catania
+1008,Namur
+1009,Parikia
+1010,Casablanca
+1011,Passo Rolle
+1012,Cardiff
+1013,Dana Point
+1014,Santa Clara
+1015,Juan-les-Pins
+1016,Pretoria
+1017,Rayong
+1018,Kingston upon Hull
+1019,Guadalajara
+1020,Guimarães
+1021,Nuoro
+1022,Cannes
+1023,Dallas
+1024,Kansas City
+1025,Kilkenny
+1026,Chieti
+1027,Modena
+1028,Livigno
+1029,Ashdod
+1030,Tilburg
+1031,Artà
+1032,Bremen
+1033,Kutná Hora
+1034,Jacksonville
+1035,Cambridge
+1036,Mar del Plata
+1037,La Plagne
+1038,Bratislava
+1039,Trieste
+1040,Sarasota
+1041,Empuriabrava
+1042,Rome
+1043,Nyon
+1044,Les Gets
+1045,Dundee
+1046,Baton Rouge
+1047,Avignon
+1048,Rancho Cucamonga
+1049,Anzio
+1050,Derby
+1051,Temecula
+1052,Bucharest
+1053,Port Charlotte
+1054,Playa de las Américas
+1055,Makarska
+1056,Les Arcs
+1057,Chesapeake
+1058,Peguera
+1059,Saumur
+1060,Rovinj
+1061,Crans-Montana
+1062,Wakefield
+1063,Acapulco
+1064,Tours
+1065,Napa
+1066,Tangier
+1067,Blumenau
+1068,Kappl
+1069,Passo del Tonale
+1070,Ravenna
+1071,Amiens
+1072,Gainesville
+1073,Las Vegas
+1074,Seattle
+1075,Leogang
+1076,York
+1077,Porto-Vecchio
+1078,Sion
+1079,Bolzano
+1080,Montreal
+1081,Leuven
+1082,Portland
+1083,Hervey Bay
+1084,Santa Eulària des Riu
+1085,Mississauga
+1086,Collioure
+1087,Orlando
+1088,Fano
+1089,Albi
+1090,Madonna di Campiglio
+1091,Delray Beach
+1092,Aix-les-Bains
+1093,Nafplio
+1094,Kitzbühel
+1095,Del Mar
+1096,Düsseldorf
+1097,Enna
+1098,Magdeburg
+1099,Pattaya
+1100,Tauranga
+1101,Madrid
+1102,Cape Town
+1103,Denver
+1104,Tampa
+1105,La Spezia
+1106,Irvine
+1107,Reggio Calabria
+1108,Antwerp
+1109,Quarteira
+1110,Bern
+1111,Fort Collins
+1112,Windsor
+1113,Belfort
+1114,Derry
+1115,Innsbruck
+1116,Albenga
+1117,Bandol
+1118,A Coruña
+1119,Manosque
+1120,Ashkelon
+1121,Aix-en-Provence
+1122,Hobart
+1123,Famagusta
+1124,Limassol
+1125,Salou
+1126,Granada
+1127,Ottawa
+1128,Tinos
+1129,Teramo
+1130,Phang Nga
+1131,Townsville
+1132,Cape May
+1133,Salta
+1134,Dieppe
+1135,Salamanca
+1136,Beersheba
+1137,Agropoli
+1138,Mantua
+1139,Biarritz
+1140,Chiang Mai
+1141,Kyoto
+1142,Saalbach
+1143,Valletta
+1144,Caxias do Sul
+1145,Carbonia
+1146,Valle Isarco
+1147,Ibiza Town
+1148,Miramar
+1149,Samaná
+1150,Tromsø
+1151,Toulon
+1152,Swansea
+1153,Reutlingen
+1154,Grenoble
+1155,Portofino
+1156,Thessaloniki
+1157,Memphis
+1158,Cala Bona
+1159,Agen
+1160,Fort Wayne
+1161,Galtür
+1162,Aurora
+1163,Lech
+1164,Arosa
+1165,Saarbrücken
+1166,Torremolinos
+1167,Gloucester
+1168,Hampton
+1169,Garden Grove
+1170,Gstaad
+1171,Berlin
+1172,Tulsa
+1173,Mons
+1174,Peterborough
+1175,Helsinki
+1176,Riga
+1177,Kuah
+1178,Vancouver
+1179,Norwich
+1180,Pärnu
+1181,Sondrio
+1182,Amersfoort
+1183,Kingston
+1184,Vrsar
+1185,Stuttgart
+1186,Paderborn
+1187,Tarifa
+1188,Viterbo
+1189,Riomaggiore
+1190,Ao Nang
+1191,Juiz de Fora
+1192,Porto Cristo
+1193,Bordeaux
+1194,Petrovac
+1195,Izola
+1196,Bergerac
+1197,Laredo
+1198,Encinitas
+1199,Reus
+1200,Santa Cruz de Tenerife
+1201,Val Gardena
+1202,Cala d'Or
+1203,Chiang Rai
+1204,Fribourg
+1205,Atlantic City
+1206,Salzburg
+1207,Eugene
+1208,Narbonne
+1209,Pistoia
+1210,Palo Alto
+1211,Ghent
+1212,Krefeld
+1213,Potenza
+1214,Groningen
+1215,Tallahassee
+1216,Chemnitz
+1217,Johannesburg
+1218,Bormio
+1219,Birmingham
+1220,Little Rock
+1221,L'Aquila
+1222,Lloret de Mar
+1223,Carpi
+1224,Mijas
+1225,Mulhouse
+1226,Pforzheim
+1227,Moraira
+1228,Malibu
+1229,Opatija
+1230,Warsaw
+1231,Denia
+1232,Ravello
+1233,Santa Rosa
+1234,Huntington Beach
+1235,Montpelier
+1236,Šiauliai
+1237,Kassel
+1238,Saint-Tropez
+1239,Alkmaar
+1240,Wiesbaden
+1241,Bangor
+1242,Coventry
+1243,Chur
+1244,Sunderland
+1245,Frankfurt am Main
+1246,Marrakesh
+1247,Vejle
+1248,Arenzano
+1249,Ulcinj
+1250,Nancy
+1251,Auxerre
+1252,Bar
+1253,Punta Gorda
+1254,Hvar
+1255,Nagoya
