@@ -10,28 +10,36 @@ import os
 import glob
 import pandas as pd
 
-from ontology_population.helpers.helpers import write_csv
+sys.path.append('../../../helpers')
+from helpers import write_csv
 
 root_url = "https://www.atptour.com/en/rankings/singles/?rankDate=2020-3-16&countryCode=all&rankRange="
 
-page = requests.get(root_url)
-soup = BeautifulSoup(page.content, "html.parser")
-
-countries_table = soup.find('table', class_='table table-hover table-condensed')
 paranthesis = re.compile(r'\([^)]*\)')
 
-countries = []
+players_names = []
+players_urls = []
+players_age = []
+players_rank = []
 
-for country_row in countries_table.find('tbody').find_all('tr'):
-    country_name = country_row.find('td', style='font-weight: bold; font-size:15px').text
-    country_name = re.sub(paranthesis, '', country_name).strip()
+for nr_page in range(14):
+    current_url = f"{root_url}{nr_page * 100 + 1}-{(nr_page + 1) * 100}"
+    page = requests.get(current_url)
+    soup = BeautifulSoup(page.content, "html.parser")
 
-    # weird country representation
-    if country_name == 'Czechia':
-        country_name = 'Czech Republic'
+    players_table = soup.find('table', class_='mega-table')
 
-    countries.append(country_name)
+    for player_row in players_table.find('tbody').find_all('tr'):
+        player_name = player_row.find('td', class_='player-cell').find('a').text.strip()
+        player_url = player_row.find('td', class_='player-cell').find('a')['href']
+        player_age = player_row.find('td', class_='age-cell').text.strip()
+        player_rank = player_row.find('td', class_='rank-cell').text.strip()
 
-cols_name = ['Country']
-cols = [countries]
-write_csv('countries.csv', cols_name, cols)
+        players_names.append(player_name)
+        players_urls.append(player_url)
+        players_age.append(player_age)
+        players_rank.append(player_rank)
+
+cols_name = ['Name', 'URL', 'Age', 'Rank']
+cols = [players_names, players_urls, players_age, players_rank]
+write_csv('tennis_players.csv', cols_name, cols)
