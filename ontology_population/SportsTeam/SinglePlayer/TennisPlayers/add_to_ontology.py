@@ -26,5 +26,6 @@ for idx, row in df.iterrows():
 
     g.add((tennis_player_single_player_URI, RDF.type, sports_ontology.SinglePlayer))
     g.add((tennis_player_single_player_URI, dbpedia.playerInTeam, tennis_player_URI))
+    g.add((tennis_player_single_player_URI, sports_ontology.hasTeamName, Literal(tennis_player_name)))
 
 g.serialize(destination=output_ontology, format="xml")
