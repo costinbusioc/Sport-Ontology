@@ -10,10 +10,9 @@ import os
 import glob
 import pandas as pd
 
-sys.path.append('../../helpers')
-from helpers improt write_csv
+from ontology_population.helpers.helpers import write_csv
 
-root_url = "https://www.worldometers.info/geography/alphabetical-list-of-countries/"
+root_url = "https://www.atptour.com/en/rankings/singles/?rankDate=2020-3-16&countryCode=all&rankRange="
 
 page = requests.get(root_url)
 soup = BeautifulSoup(page.content, "html.parser")

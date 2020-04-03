@@ -10,7 +10,7 @@ import os
 import glob
 import pandas as pd
 
-sys.path.append('..')
+sys.path.append('../../helpers')
 from helpers import write_csv
 
 root_url = "http://ontheworldmap.com/all/cities/"
