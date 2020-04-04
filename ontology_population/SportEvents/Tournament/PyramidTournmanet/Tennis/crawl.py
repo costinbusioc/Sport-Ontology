@@ -7,6 +7,7 @@ import csv
 import sys
 import json
 import os
+import math
 import glob
 import pandas as pd
 
@@ -27,7 +28,7 @@ champions = []
 start_dates = []
 urls = []
 
-for year in range(2015, 2020):
+for year in range(2005, 2015):
     current_url = root_url + f'year={year}&tournamentType=atpg'
     page = requests.get(current_url)
     soup = BeautifulSoup(page.content, "lxml")
@@ -37,9 +38,15 @@ for year in range(2015, 2020):
         title = tournament.find('td', class_='title-content')
         name = title.find('span', class_='tourney-title').text.strip()
         location = title.find('span', class_='tourney-location').text
-        city, country = location.split(',')
-        city = city.strip()
-        country = country.strip()
+
+        try:
+            city, country = location.split(',')
+            city = city.strip()
+            country = country.strip()
+        except:
+            city = location.strip()
+            country = 'Empty'
+
         start_date = title.find('span', class_='tourney-dates').text.strip()
 
         finance = tournament.find('td', class_='tourney-details fin-commit')
@@ -49,7 +56,11 @@ for year in range(2015, 2020):
             continue
 
         winners = tournament.find('td', class_='tourney-details action-buttons')
-        champion = winners.find_all('div', class_='tourney-detail-winner')[0].find('a').text.strip()
+
+        try:
+            champion = winners.find_all('div', class_='tourney-detail-winner')[0].find('a').text.strip()
+        except:
+            continue
 
         details = tournament.find_all('td', class_='tourney-details')
         surface = details[1].find('span').text.strip()
@@ -67,4 +78,4 @@ for year in range(2015, 2020):
 
 cols_name = ['Tournament', 'City', 'Country', 'Start Date', 'Prize', 'Champion', 'Surface', 'URL', 'Year']
 cols = [names, cities, countries, start_dates, prizes, champions, surfaces, urls, years]
-write_csv('tennis_tournaments.csv', cols_name, cols)
+write_csv('new_tennis_tournaments.csv', cols_name, cols)

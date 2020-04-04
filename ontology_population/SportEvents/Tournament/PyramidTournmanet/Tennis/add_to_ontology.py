@@ -5,7 +5,7 @@ from rdflib import Graph
 from rdflib import URIRef, Namespace, Literal
 from rdflib.namespace import RDF, FOAF
 
-input_table = 'tennis_tournaments.csv'
+input_table = 'new_tennis_tournaments.csv'
 input_ontology = 'ontology.owl'
 output_ontology = 'ontology.owl'
 
@@ -47,15 +47,21 @@ for idx, row in df.iterrows():
 
     tournament_URI = URIRef(ontology_root + name.replace(' ' , '') + str(cal_year))
     champion_URI = URIRef(ontology_root + champion_name.replace(' ', '') + 'SinglePlayerTeam')
-    country_URI = URIRef(ontology_root + country.replace(' ', ''))
-    city_URI = URIRef(ontology_root + city.replace(' ', ''))
+    if country != 'Empty':
+        country_URI = URIRef(ontology_root + country.replace(' ', ''))
+    
+    try:
+        city_URI = URIRef(ontology_root + city.replace(' ', ''))
+    except:
+        continue
 
     g.add((tournament_URI, RDF.type, sports_ontology.PyramidTournament))
     g.add((tournament_URI, sports_ontology.hasTournamentName, Literal(name)))
     g.add((tournament_URI, dbpedia.startDateTime, Literal(startDate)))
     g.add((tournament_URI, dbpedia.endDateTime, Literal(endDate)))
     g.add((tournament_URI, dbpedia.champion, champion_URI))
-    g.add((tournament_URI, sports_ontology.hasLocation, country_URI))
+    if country != 'Empty':
+        g.add((tournament_URI, sports_ontology.hasLocation, country_URI))
     g.add((tournament_URI, sports_ontology.hasLocation, city_URI))
     g.add((tournament_URI, sports_ontology.hasSurface, Literal(surface)))
     g.add((tournament_URI, sports_ontology.hasPrize, Literal(prize)))
