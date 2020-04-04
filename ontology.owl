@@ -423,12 +423,6 @@
     
 
 
-    <!-- http://purl.org/sport/ontology/TennisPlayer -->
-
-    <owl:Class rdf:about="http://purl.org/sport/ontology/TennisPlayer"/>
-    
-
-
     <!-- http://xmlns.com/foaf/0.1/Person -->
 
     <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Person"/>
@@ -46342,15 +46336,6 @@
         <rdf:type rdf:resource="http://purl.org/sport/ontology/SinglePlayer"/>
         <hasTeamName>Roger Federer</hasTeamName>
         <ns1:playerInTeam rdf:resource="http://purl.org/sport/ontology/RogerFederer"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://purl.org/sport/ontology/Roger_Federer -->
-
-    <owl:NamedIndividual rdf:about="http://purl.org/sport/ontology/Roger_Federer">
-        <rdf:type rdf:resource="http://purl.org/sport/ontology/TennisPlayer"/>
-        <foaf:name>Roger Federer</foaf:name>
     </owl:NamedIndividual>
     
 
