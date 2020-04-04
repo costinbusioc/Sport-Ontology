@@ -219,6 +219,15 @@
     
 
 
+    <!-- http://purl.org/sport/ontology/hasMatchName -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasMatchName">
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Match"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- http://purl.org/sport/ontology/hasPrize -->
 
     <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasPrize">
