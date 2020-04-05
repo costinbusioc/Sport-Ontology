@@ -1,0 +1,126 @@
+,HomeTeam,AwayTeam,HomeScore,AwayScore,Winner,Stage,ToNextStage,Date
+0,Manchester United,Basel,3,0,HomeTeam,Group,-,-
+1,Benfica,CSKA,1,2,AwayTeam,Group,-,-
+2,Bayern,Anderlecht,3,0,HomeTeam,Group,-,-
+3,Celtic,Paris,0,5,AwayTeam,Group,-,-
+4,Chelsea,Qarabağ,6,0,HomeTeam,Group,-,-
+5,Roma,Atlético,0,0,Draw,Group,-,-
+6,Barcelona,Juventus,3,0,HomeTeam,Group,-,-
+7,Olympiacos,Sporting CP,2,3,AwayTeam,Group,-,-
+8,Liverpool,Sevilla,2,2,Draw,Group,-,-
+9,Maribor,Spartak Moskva,1,1,Draw,Group,-,-
+10,Feyenoord,Manchester City,0,4,AwayTeam,Group,-,-
+11,Shakhtar,Napoli,2,1,HomeTeam,Group,-,-
+12,Porto,Beşiktaş,1,3,AwayTeam,Group,-,-
+13,RB Leipzig,Monaco,1,1,Draw,Group,-,-
+14,Real Madrid,APOEL,3,0,HomeTeam,Group,-,-
+15,Tottenham,Dortmund,3,1,HomeTeam,Group,-,-
+16,Basel,Benfica,5,0,HomeTeam,Group,-,-
+17,CSKA,Manchester United,1,4,AwayTeam,Group,-,-
+18,Paris,Bayern,3,0,HomeTeam,Group,-,-
+19,Anderlecht,Celtic,0,3,AwayTeam,Group,-,-
+20,Qarabağ,Roma,1,2,AwayTeam,Group,-,-
+21,Atlético Madrid,Chelsea,1,2,AwayTeam,Group,-,-
+22,Sporting CP,Barcelona,0,1,AwayTeam,Group,-,-
+23,Juventus,Olympiacos,2,0,HomeTeam,Group,-,-
+24,Sevilla,Maribor,3,0,HomeTeam,Group,-,-
+25,Spartak Moskva,Liverpool,1,1,Draw,Group,-,-
+26,Manchester City,Shakhtar,2,0,HomeTeam,Group,-,-
+27,Napoli,Feyenoord,3,1,HomeTeam,Group,-,-
+28,Beşiktaş,RB Leipzig,2,0,HomeTeam,Group,-,-
+29,Monaco,Porto,0,3,AwayTeam,Group,-,-
+30,Dortmund,Real Madrid,1,3,AwayTeam,Group,-,-
+31,APOEL,Tottenham,0,3,AwayTeam,Group,-,-
+32,Benfica,Manchester United,0,1,AwayTeam,Group,-,-
+33,CSKA Moskva,Basel,0,2,AwayTeam,Group,-,-
+34,Bayern,Celtic,3,0,HomeTeam,Group,-,-
+35,Anderlecht,Paris,0,4,AwayTeam,Group,-,-
+36,Qarabağ,Atlético,0,0,Draw,Group,-,-
+37,Chelsea,Roma,3,3,Draw,Group,-,-
+38,Barcelona,Olympiacos,3,1,HomeTeam,Group,-,-
+39,Juventus,Sporting CP,2,1,HomeTeam,Group,-,-
+40,Maribor,Liverpool,0,7,AwayTeam,Group,-,-
+41,Spartak Moskva,Sevilla,5,1,HomeTeam,Group,-,-
+42,Feyenoord,Shakhtar,1,2,AwayTeam,Group,-,-
+43,Manchester City,Napoli,2,1,HomeTeam,Group,-,-
+44,RB Leipzig,Porto,3,2,HomeTeam,Group,-,-
+45,Monaco,Beşiktaş,1,2,AwayTeam,Group,-,-
+46,Real Madrid,Tottenham,1,1,Draw,Group,-,-
+47,APOEL,Dortmund,1,1,Draw,Group,-,-
+48,Manchester United,Benfica,2,0,HomeTeam,Group,-,-
+49,Basel,CSKA Moskva,1,2,AwayTeam,Group,-,-
+50,Celtic,Bayern,1,2,AwayTeam,Group,-,-
+51,Paris,Anderlecht,5,0,HomeTeam,Group,-,-
+52,Atlético,Qarabağ,1,1,Draw,Group,-,-
+53,Roma,Chelsea,3,0,HomeTeam,Group,-,-
+54,Olympiacos,Barcelona,0,0,Draw,Group,-,-
+55,Sporting CP,Juventus,1,1,Draw,Group,-,-
+56,Liverpool,Maribor,3,0,HomeTeam,Group,-,-
+57,Sevilla,Spartak Moskva,2,1,HomeTeam,Group,-,-
+58,Shakhtar,Feyenoord,3,1,HomeTeam,Group,-,-
+59,Napoli,Manchester City,2,4,AwayTeam,Group,-,-
+60,Porto,RB Leipzig,3,1,HomeTeam,Group,-,-
+61,Beşiktaş,Monaco,1,1,Draw,Group,-,-
+62,Tottenham,Real Madrid,3,1,HomeTeam,Group,-,-
+63,Dortmund,APOEL,1,1,Draw,Group,-,-
+64,Basel,Manchester United,1,0,HomeTeam,Group,-,-
+65,CSKA,Benfica,2,0,HomeTeam,Group,-,-
+66,Anderlecht,Bayern,1,2,AwayTeam,Group,-,-
+67,Paris,Celtic,7,1,HomeTeam,Group,-,-
+68,Qarabağ,Chelsea,0,4,AwayTeam,Group,-,-
+69,Atlético,Roma,2,0,HomeTeam,Group,-,-
+70,Juventus,Barcelona,0,0,Draw,Group,-,-
+71,Sporting CP,Olympiacos,3,1,HomeTeam,Group,-,-
+72,Spartak Moskva,Maribor,1,1,Draw,Group,-,-
+73,Sevilla,Liverpool,3,3,Draw,Group,-,-
+74,Napoli,Shakhtar,3,0,HomeTeam,Group,-,-
+75,Manchester City,Feyenoord,1,0,HomeTeam,Group,-,-
+76,Beşiktaş,Porto,1,1,Draw,Group,-,-
+77,Monaco,RB Leipzig,1,4,AwayTeam,Group,-,-
+78,APOEL,Real Madrid,0,6,AwayTeam,Group,-,-
+79,Dortmund,Tottenham,1,2,AwayTeam,Group,-,-
+80,Benfica,Basel,0,2,AwayTeam,Group,-,-
+81,Manchester United,CSKA,2,1,HomeTeam,Group,-,-
+82,Bayern,Paris,3,1,HomeTeam,Group,-,-
+83,Celtic,Anderlecht,0,1,AwayTeam,Group,-,-
+84,Roma,Qarabağ,1,0,HomeTeam,Group,-,-
+85,Chelsea,Atlético Madrid,1,1,Draw,Group,-,-
+86,Barcelona,Sporting CP,2,0,HomeTeam,Group,-,-
+87,Olympiacos,Juventus,0,2,AwayTeam,Group,-,-
+88,Maribor,Sevilla,1,1,Draw,Group,-,-
+89,Liverpool,Spartak Moskva,7,0,HomeTeam,Group,-,-
+90,Shakhtar,Manchester City,2,1,HomeTeam,Group,-,-
+91,Feyenoord,Napoli,2,1,HomeTeam,Group,-,-
+92,Leipzig,Beşiktaş,1,2,AwayTeam,Group,-,-
+93,Porto,Monaco,5,2,HomeTeam,Group,-,-
+94,Real Madrid,Dortmund,3,2,HomeTeam,Group,-,-
+95,Tottenham,APOEL,3,0,HomeTeam,Group,-,-
+96,Juventus,Tottenham,2,2,Draw,RoundOf16,-,13 February
+97,Basel,Manchester City,0,4,AwayTeam,RoundOf16,-,13 February
+98,Porto,Liverpool,0,5,AwayTeam,RoundOf16,-,14 February
+99,Real Madrid,Paris,3,1,HomeTeam,RoundOf16,-,14 February
+100,Chelsea,Barcelona,1,1,Draw,RoundOf16,-,20 February
+101,Bayern,Beşiktaş,5,0,HomeTeam,RoundOf16,-,20 February
+102,Sevilla,Manchester United,0,0,Draw,RoundOf16,-,21 February
+103,Shakhtar,Roma,2,1,HomeTeam,RoundOf16,-,21 February
+104,Liverpool,Porto,0,0,Draw,RoundOf16,Liverpool,6 March
+105,Paris,Real Madrid,1,2,AwayTeam,RoundOf16,Real Madrid,6 March
+106,Tottenham,Juventus,1,2,AwayTeam,RoundOf16,Juventus,7 March
+107,Manchester City,Basel,1,2,AwayTeam,RoundOf16,Manchester City,7 March
+108,Manchester United,Sevilla,1,2,AwayTeam,RoundOf16,Sevilla,13 March
+109,Roma,Shakhtar,1,0,HomeTeam,RoundOf16,Roma,13 March
+110,Barcelona,Chelsea,3,0,HomeTeam,RoundOf16,Barcelona,14 March
+111,Beşiktaş,Bayern,1,3,AwayTeam,RoundOf16,Bayern,14 March
+112,Sevilla,Bayern,1,2,AwayTeam,QuarterFinal,-,3 April
+113,Juventus,Real Madrid,0,3,AwayTeam,QuarterFinal,-,3 April
+114,Barcelona,Roma,4,1,HomeTeam,QuarterFinal,-,4 April
+115,Liverpool,Man. City,3,0,HomeTeam,QuarterFinal,-,4 April
+116,Roma,Barcelona,3,0,HomeTeam,QuarterFinal,Roma,10 April
+117,Man. City,Liverpool,1,2,AwayTeam,QuarterFinal,Liverpool,10 April
+118,Bayern,Sevilla,0,0,Draw,QuarterFinal,Bayern,11 April
+119,Real Madrid,Juventus,1,3,AwayTeam,QuarterFinal,Real Madrid,11 April
+120,Liverpool,Roma,5,2,HomeTeam,SemiFinal,-,24 April
+121,Bayern,Real Madrid,1,2,AwayTeam,SemiFinal,-,25 April
+122,Real Madrid,Bayern,2,2,Draw,SemiFinal,Real Madrid,1 May
+123,Roma,Liverpool,4,2,HomeTeam,SemiFinal,Liverpool,2 May
+124,Real Madrid,Liverpool,3,1,HomeTeam,Final,-,26 May
