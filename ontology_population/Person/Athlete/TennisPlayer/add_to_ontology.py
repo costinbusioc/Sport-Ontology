@@ -4,7 +4,7 @@ from rdflib import Graph
 from rdflib import URIRef, Namespace, Literal
 from rdflib.namespace import RDF, FOAF
 
-input_table = 'tennis_players.csv'
+input_table = 'new_tennis_players.csv'
 input_ontology = 'ontology.owl'
 output_ontology = 'ontology.owl'
 
@@ -25,5 +25,6 @@ for idx, row in df.iterrows():
     
     g.add((tennis_player_URI, RDF.type, dbpedia.TennisPlayer))
     g.add((tennis_player_URI, FOAF.name, Literal(tennis_player_name)))
+    g.add((tennis_player_URI, sports_ontology.hasGender, Literal('Male')))
 
 g.serialize(destination=output_ontology, format="xml")
