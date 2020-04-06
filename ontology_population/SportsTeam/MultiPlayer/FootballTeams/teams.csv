@@ -1,0 +1,956 @@
+,TeamName,Country,NoPlayers,AvgAge,NoForeigners,TotalPlayersValue,Coach,AgeCouch
+0,Red Bull Salzburg,Austria,25,"24,1",19,€113.60m,Jesse Marsch,46 Years
+1,Rapid Vienna,Austria,29,"24,7",7,€32.45m,Dietmar Kühbauer,49 Years
+2,LASK,Austria,25,"25,5",5,€31.28m,Valérien Ismaël,44 Years
+3,SK Sturm Graz,Austria,26,"25,9",7,€20.20m,Nestor El Maestro,37 Years
+4,Austria Vienna,Austria,27,"24,8",6,€19.70m,Christian Ilzer,42 Years
+5,Wolfsberger AC,Austria,27,"26,5",6,€13.90m,Ferdinand Feldhofer,40 Years
+6,FC Admira Wacker Mödling,Austria,31,"24,7",8,€11.43m,Zvonimir Soldo,52 Years
+7,SKN St. Pölten,Austria,29,"25,3",9,€10.05m,Robert Ibertsberger,43 Years
+8,SC Rheindorf Altach,Austria,29,"24,9",9,€9.95m,Alex Pastoor,53 Years
+9,TSV Hartberg,Austria,26,"26,8",5,€9.08m,Markus Schopp,46 Years
+10,SV Mattersburg,Austria,24,"26,2",2,€7.75m,Franz Ponweiser,44 Years
+11,WSG Tirol,Austria,26,"28,2",10,€7.35m,Thomas Silberberger,46 Years
+12,FC Liefering,Austria,25,"18,8",16,€17.23m,Bo Svensson,40 Years
+13,SV Ried,Austria,27,"24,6",8,€6.20m,Gerald Baumgartner,55 Years
+14,SK Austria Klagenfurt,Austria,28,"23,9",18,€4.88m,Robert Micheu,44 Years
+15,FC Wacker Innsbruck,Austria,27,"21,4",4,€4.70m,Thomas Grumser,40 Years
+16,SV Lafnitz,Austria,32,"25,7",8,€4.65m,Philipp Semlic,36 Years
+17,SC Austria Lustenau,Austria,26,"23,3",12,€4.55m,Roman Mählich,48 Years
+18,FC Juniors OÖ,Austria,26,"21,6",8,€4.53m,Gerald Scheiblehner,43 Years
+19,FC Blau Weiss Linz,Austria,26,"23,3",7,€4.28m,Ronald Brunmayr,45 Years
+20,SKU Amstetten,Austria,26,"25,2",1,€4.18m,Jochen Fallmann,41 Years
+21,SV Horn,Austria,28,"23,2",6,€3.93m,Hans Kleer,50 Years
+22,Grazer AK 1902,Austria,26,"25,0",5,€3.68m,Gernot Plassnegger,42 Years
+23,Floridsdorfer AC,Austria,21,"23,6",5,€3.60m,Mario Handl,45 Years
+24,FC Dornbirn,Austria,24,"24,2",4,€3.40m,Markus Mader,51 Years
+25,SV Kapfenberg,Austria,31,"22,1",12,€3.25m,Kurt Russ,55 Years
+26,SK Vorwärts Steyr,Austria,23,"25,0",6,€3.23m,Wilhelm Wahlmüller,53 Years
+27,Young Violets Austria Wien,Austria,26,"19,5",4,€2.85m,Harald Suchard,43 Years
+28,Qarabağ Ağdam,Azerbaijan,22,"26,9",9,€14.35m,Qurban Qurbanov,47 Years
+29,Neftchi Baku,Azerbaijan,23,"26,7",10,€11.65m,Fuzuli Mammadov,42 Years
+30,Sabah FK,Azerbaijan,32,"25,9",13,€9.43m,Zeljko Sopic,45 Years
+31,Zira FC,Azerbaijan,25,"26,1",12,€8.53m,Zaur Hashimov,38 Years
+32,Keshla FK,Azerbaijan,27,"27,1",8,€7.25m,Tarlan Ahmadov,48 Years
+33,Sumgayit PFC,Azerbaijan,22,"25,3",5,€6.85m,Aykhan Abbasov,38 Years
+34,FK Sabail,Azerbaijan,25,"26,9",6,€6.35m,Aftandil Hadzhiyev,38 Years
+35,FK Qabala,Azerbaijan,24,"25,3",8,€5.18m,Azar Bagyrov,35 Years
+36,FC Santa Coloma,Andorra,23,"28,4",14,€2.20m,Marc Rodríguez Rebull,"Jul 1, 2018"
+37,UE Engordany,Andorra,22,"28,5",14,€1.55m,Filipe Busto,36 Years
+38,UE Escale Santa Coloma,Andorra,25,"27,7",4,€1.43m,Emilio Gomez,62 Years
+39,Inter Club d'Escaldes,Andorra,25,"31,3",13,€1.28m,Adolfo Baines,48 Years
+40,UE Sant Julia,Andorra,22,"31,9",20,€1.00m,Luis Blanco Torrado,60 Years
+41,FC Ordino,Andorra,24,"25,1",11,€775k,Javier Saviola,38 Years
+42,Atlètic Club d'Escaldes,Andorra,25,"29,7",16,€625k,Daniel Ferrón Perez,40 Years
+43,Club Esportiu Carroi,Andorra,30,"25,3",25,€75k,Jorge Diogo Marques Festa Simoes,41 Years
+44,FK Partizani,Albania,25,"24,6",8,€6.28m,Adolfo Sormani,54 Years
+45,FK Kukësi,Albania,24,"24,9",6,€5.05m,Orges Shehi,42 Years
+46,KF Tirana,Albania,25,"27,2",6,€4.53m,Emmanuel Egbo,46 Years
+47,FK Bylis Ballsh,Albania,29,"24,8",10,€4.03m,Veljko Dovedan,65 Years
+48,KF Laçi,Albania,22,"23,8",5,€3.83m,Armando Cungu,46 Years
+49,KF Vllaznia,Albania,25,"26,2",9,€3.80m,Mirsad Jonuz,57 Years
+50,KF Teuta,Albania,22,"25,0",6,€3.53m,Eduard Martini,45 Years
+51,KF Skënderbeu,Albania,30,"23,9",11,€3.48m,Ilir Daja,53 Years
+52,Flamurtari FC,Albania,25,"23,4",5,€2.25m,Marcello Troisi,44 Years
+53,FC Luftëtari,Albania,26,"21,1",1,€1.33m,Neritan Novi,49 Years
+54,FC Ararat-Armenia Yerevan,Armenia,28,"26,1",19,€6.08m,Vardan Minasyan,46 Years
+55,Alashkert Yerevan,Armenia,27,"27,3",15,€5.73m,Armen Adamyan,52 Years
+56,FC Ararat Yerevan,Armenia,34,"25,7",26,€4.85m,Igor Kolyvanov,52 Years
+57,FC Pyunik Erewan,Armenia,28,"25,5",14,€4.80m,Roman Berezovskiy,45 Years
+58,FC Urartu Yerevan,Armenia,25,"25,7",14,€3.78m,Aleksandr Grigoryan,53 Years
+59,FC Noah Erewan,Armenia,28,"24,0",19,€3.63m,Igor Picusceac,37 Years
+60,FC Shirak Gyumri,Armenia,28,"25,1",8,€3.43m,Vardan Bichakhchyan,42 Years
+61,FC Lori Vanadzor,Armenia,24,"24,8",16,€3.40m,David Campaña,45 Years
+62,Gandzasar Kapan,Armenia,26,"25,8",4,€2.85m,Armen Petrosyan,34 Years
+63,BATE Borisov,Belarus,22,"27,6",8,€14.00m,Kirill Alshevskiy,38 Years
+64,Dynamo Brest,Belarus,22,"28,1",7,€12.15m,Sergey Kovalchuk,46 Years
+65,Shakhtjor Soligorsk,Belarus,23,"27,7",9,€10.95m,Yurii Vernydub,54 Years
+66,Dinamo Minsk,Belarus,22,"26,2",8,€6.85m,Sergey Gurenko,47 Years
+67,Torpedo-BelAZ Zhodino,Belarus,25,"27,0",7,€4.55m,Yuri Puntus,59 Years
+68,FK Minsk,Belarus,24,"25,7",6,€4.25m,Andrey Razin,40 Years
+69,Neman Grodno,Belarus,24,"26,0",8,€4.10m,Igor Kovalevich,52 Years
+70,Isloch Minskiy Rayon,Belarus,22,"27,9",7,€3.65m,Vitali Zhukovski,35 Years
+71,Rukh Brest,Belarus,28,"24,0",7,€3.65m,Aleksandr Sednev,46 Years
+72,FK Vitebsk,Belarus,21,"25,9",8,€3.55m,Sergey Yasinski,55 Years
+73,Slavia Mozyr,Belarus,25,"26,5",10,€3.50m,Mikhail Martinovich,40 Years
+74,FK Smolevichi,Belarus,25,"25,2",6,€3.20m,Aleksandr Brazevich,46 Years
+75,FK Gorodeya,Belarus,20,"26,2",6,€3.15m,Oleg Radushko,53 Years
+76,Energetik-BGU Minsk,Belarus,22,"22,5",10,€3.13m,Vladimir Belyavski,57 Years
+77,FK Slutsk,Belarus,21,"27,5",10,€2.85m,Vitali Pavlov,54 Years
+78,Belshina Bobruisk,Belarus,24,"25,9",9,€2.80m,Eduard Gradoboev,48 Years
+79,FK Gomel,Belarus,21,"26,2",3,€900k,Ivan Bionchik,34 Years
+80,Krumkachi,Belarus,21,"26,7",2,€450k,Sergey Kuzminich,43 Years
+81,FK Smorgon,Belarus,18,"23,5",1,€450k,Vyacheslav Gerashchenko,47 Years
+82,Sputnik Rechitsa,Belarus,20,"26,4",1,€375k,Vyacheslav Levchuk,48 Years
+83,Volna Pinsk,Belarus,20,"24,8",3,€275k,Vadim Belenko,51 Years
+84,Lokomotiv Gomel,Belarus,18,"25,8",0,€150k,Andrey Gorovtsov,39 Years
+85,FK Lida,Belarus,18,"24,2",2,€150k,Yuri Karatai,37 Years
+86,Arsenal Dzerzhinsk,Belarus,26,"26,4",2,€125k,Sergey Yaskovich,48 Years
+87,FK Slonim 2017,Belarus,25,"24,3",2,€50k,Leonid Lagun,41 Years
+88,Oshmyany-BDUFK,Belarus,15,"24,0",0,-,Antuan Mayorov,48 Years
+89,Club Brugge KV,Belgium,27,"24,3",16,€159.05m,Philippe Clement,46 Years
+90,RSC Anderlecht,Belgium,33,"24,3",13,€133.95m,Frank Vercauteren,63 Years
+91,KAA Gent,Belgium,28,"25,9",18,€100.65m,Jess Thorup,50 Years
+92,KRC Genk,Belgium,26,"23,3",16,€87.50m,Hannes Wolf,38 Years
+93,Standard Liège,Belgium,31,"24,9",19,€77.55m,Michel Preud'homme,61 Years
+94,Royal Antwerp FC,Belgium,33,"26,2",19,€59.25m,László Bölöni,67 Years
+95,RSC Charleroi,Belgium,25,"25,5",19,€36.23m,Karim Belhocine,42 Years
+96,SV Zulte Waregem,Belgium,26,"26,2",18,€32.95m,Francky Dury,62 Years
+97,Cercle Brugge,Belgium,34,"24,0",24,€30.00m,Bernd Storck,57 Years
+98,Royal Excel Mouscron,Belgium,28,"25,0",19,€28.00m,Bernd Hollerbach,50 Years
+99,KV Mechelen,Belgium,29,"25,9",9,€26.43m,Wouter Vrancken,41 Years
+100,KV Oostende,Belgium,28,"26,1",18,€25.90m,Adnan Custovic,41 Years
+101,Sint-Truidense VV,Belgium,33,"24,1",19,€25.43m,Milos Kostic,48 Years
+102,KV Kortrijk,Belgium,27,"26,7",19,€22.60m,Yves Vanderhaeghe,50 Years
+103,KAS Eupen,Belgium,29,"25,7",21,€19.65m,Beñat San José,40 Years
+104,Waasland-Beveren,Belgium,29,"23,2",14,€15.00m,Dirk Geeraerd,56 Years
+105,Oud-Heverlee Leuven,Belgium,27,"27,1",14,€12.60m,Vincent Euvrard,38 Years
+106,K. Beerschot V.A.,Belgium,27,"25,3",12,€12.30m,Hernán Losada,37 Years
+107,KVC Westerlo,Belgium,30,"24,5",15,€11.43m,Bob Peeters,46 Years
+108,Royale Union Saint Gilloise,Belgium,27,"25,1",16,€10.90m,Thomas Christiansen,47 Years
+109,Royal Excelsior Virton,Belgium,32,"26,2",21,€8.43m,Christian Bracconi,59 Years
+110,Lommel SK,Belgium,30,"23,6",17,€6.93m,Peter Maes,55 Years
+111,KSC Lokeren,Belgium,25,"26,5",13,€6.60m,Stijn Vreven,46 Years
+112,KSV Roeselare,Belgium,25,"25,4",13,€5.70m,Christophe Gamel,47 Years
+113,FK Sarajevo,Bosnia and Herzegovina,29,"25,4",7,€10.60m,Vinko Marinovic,49 Years
+114,HSK Zrinjski Mostar,Bosnia and Herzegovina,29,"26,5",14,€8.08m,Mladen Zizovic,39 Years
+115,FK Zeljeznicar Sarajevo,Bosnia and Herzegovina,25,"26,9",6,€7.25m,Amar Osim,52 Years
+116,NK Siroki Brijeg,Bosnia and Herzegovina,27,"25,8",10,€5.33m,Toni Karacic,45 Years
+117,FK Borac Banja Luka,Bosnia and Herzegovina,24,"28,9",7,€5.13m,Vlado Jagodic,56 Years
+118,FK Tuzla City,Bosnia and Herzegovina,26,"26,4",8,€5.10m,Zlatan Nalic,51 Years
+119,FK Sloboda Tuzla,Bosnia and Herzegovina,29,"24,5",5,€5.08m,Gradimir Crnogorac,37 Years
+120,FK Velez Mostar,Bosnia and Herzegovina,22,"24,8",4,€4.38m,Fedja Dudic,37 Years
+121,FK Radnik Bijeljina,Bosnia and Herzegovina,25,"27,5",7,€4.25m,Slavko Petrovic,61 Years
+122,FK Mladost Doboj-Kakanj,Bosnia and Herzegovina,25,"23,9",7,€4.13m,Fahrudin Solbic,61 Years
+123,NK Celik Zenica,Bosnia and Herzegovina,32,"25,0",13,€4.10m,Ümit Özat,43 Years
+124,FK Zvijezda 09,Bosnia and Herzegovina,22,"25,9",9,€2.85m,Perica Ognjenovic,43 Years
+125,PFK Ludogorets Razgrad,Bulgaria,26,"29,3",15,€49.50m,Pavel Vrba,56 Years
+126,CSKA Sofia,Bulgaria,25,"26,5",17,€28.40m,Milos Kruscic,43 Years
+127,Levski Sofia,Bulgaria,27,"25,9",12,€19.10m,Petar Hubchev,56 Years
+128,Botev Plovdiv,Bulgaria,23,"24,8",3,€8.40m,Ferario Spasov,58 Years
+129,FK Arda Kardzhali,Bulgaria,25,"27,3",9,€8.05m,Stamen Belchev,50 Years
+130,PFC Beroe Stara Zagora,Bulgaria,25,"26,6",13,€6.63m,Dimitar Dimitrov,60 Years
+131,Cherno More Varna,Bulgaria,27,"24,7",8,€5.95m,Ilian Iliev,51 Years
+132,POFK Botev Vratsa,Bulgaria,26,"26,8",5,€5.60m,Antoni Zdravkov,55 Years
+133,Slavia Sofia,Bulgaria,24,"26,1",2,€5.42m,Zlatomir Zagorcic,48 Years
+134,Lokomotiv Plovdiv,Bulgaria,23,"25,8",16,€5.10m,Bruno Akrapovic,52 Years
+135,FC Tsarsko Selo Sofia,Bulgaria,22,"26,1",10,€4.10m,Nikola Spasov,61 Years
+136,Etar Veliko Tarnovo,Bulgaria,25,"27,5",3,€3.80m,Petko Petkov,52 Years
+137,FK Vitosha Bistritsa,Bulgaria,26,"29,0",3,€3.40m,Asen Bukarev,41 Years
+138,FK Dunav Ruse,Bulgaria,21,"26,4",6,€3.00m,Lyudmil Kirov,44 Years
+139,Septemvri Sofia,Bulgaria,31,"23,9",1,€3.78m,Milen Radukanov,47 Years
+140,CSKA 1948,Bulgaria,22,"26,6",0,€3.13m,Yordan Yurukov,36 Years
+141,PFC Montana,Bulgaria,19,"27,3",0,€2.52m,Stefan Genov,65 Years
+142,Lokomotiv Sofia,Bulgaria,18,"24,9",4,€2.36m,Hristo Koilov,50 Years
+143,OFK Pirin Blagoevgrad,Bulgaria,26,"25,8",7,€2.32m,Petar Zlatinov,39 Years
+144,Hebar Pazardzhik,Bulgaria,17,"25,2",0,€2.09m,Radoslav Vardarov,51 Years
+145,Spartak Varna,Bulgaria,47,"25,7",3,€1.44m,Atanas Atanasov,51 Years
+146,FC Litex Lovetch,Bulgaria,24,"24,0",1,€1.31m,Zhivko Zhelev,40 Years
+147,Strumska Slava,Bulgaria,24,"24,1",3,€1.30m,Vladimir Dimitrov,47 Years
+148,FK Botev Galabovo,Bulgaria,18,"28,6",0,€1.11m,Nikola Nikolov,57 Years
+149,FC Lokomotiv Gorna Oryahovitsa,Bulgaria,20,"26,8",0,€985k,Milcho Sirmov,"Mar 2, 2017"
+150,PFK Spartak Pleven,Bulgaria,16,"30,2",1,€790k,Boyko Tsvetkov,51 Years
+151,Chernomorets Balchik,Bulgaria,17,"26,5",0,€725k,Georgi Ivanov,52 Years
+152,Kariana Erden,Bulgaria,19,"27,9",0,€720k,Veselin Velikov,43 Years
+153,PFK Ludogorets Razgrad II,Bulgaria,19,"21,3",0,€585k,Radoslav Zdravkov,63 Years
+154,GNK Dinamo Zagreb,Croatia,24,"25,5",10,€97.10m,Nenad Bjelica,48 Years
+155,HNK Hajduk Split,Croatia,25,"23,8",10,€24.15m,Igor Tudor,41 Years
+156,NK Osijek,Croatia,23,"25,6",8,€21.50m,Ivica Kulesevic,50 Years
+157,HNK Rijeka,Croatia,24,"24,8",11,€20.50m,Simon Rozman,37 Years
+158,NK Lokomotiva Zagreb,Croatia,31,"25,5",13,€16.25m,Goran Tomic,43 Years
+159,HNK Gorica,Croatia,25,"25,1",11,€15.55m,Valdas Dambrauskas,43 Years
+160,NK Inter Zapresic,Croatia,27,"24,6",14,€10.05m,Zeljko Petrovic,54 Years
+161,NK Varazdin,Croatia,36,"25,2",7,€8.18m,Samir Toplak,49 Years
+162,Slaven Belupo Koprivnica,Croatia,27,"25,8",7,€7.93m,Tomislav Stipic,40 Years
+163,NK Istra 1961,Croatia,31,"24,0",12,€6.45m,Ivan Prelec,32 Years
+164,GNK Dinamo Zagreb II,Croatia,28,"20,9",9,€3.00m,Igor Jovicevic,46 Years
+165,HNK Cibalia Vinkovci,Croatia,23,"24,6",3,€2.15m,Ivan Karaula,72 Years
+166,NK Hrvatski Dragovoljac,Croatia,37,"22,3",8,€2.08m,Boris Perkovic,54 Years
+167,NK Rudes,Croatia,27,"25,5",4,€2.05m,Marko Babic,39 Years
+168,HNK Sibenik,Croatia,24,"25,2",4,€1.48m,Krunoslav Rendulic,46 Years
+169,NK BSK Bijelo Brdo,Croatia,26,"23,9",4,€1.38m,Tomislav Steinbrückner,53 Years
+170,NK Dugopolje,Croatia,35,"23,7",3,€1.35m,Stipe Balajic,51 Years
+171,NK Osijek II,Croatia,23,"20,8",7,€1.14m,Igor Tolic,42 Years
+172,NK Croatia Zmijavci,Croatia,33,"25,3",5,€1.13m,Kresimir Rezic,38 Years
+173,NK Sesvete,Croatia,27,"23,1",4,€1.10m,Dino Babic,42 Years
+174,NK Kustosija Zagreb,Croatia,33,"23,8",5,€1.05m,Ivica Landeka,40 Years
+175,NK Dubrava Tim kabel,Croatia,29,"22,6",8,€1.00m,Kresimir Sunara,50 Years
+176,NK Solin,Croatia,25,"24,7",3,€975k,Ivan Bubalo,41 Years
+177,HNK Orijent Rijeka,Croatia,25,"23,9",2,€925k,Fausto Budicin,38 Years
+178,NK Medjimurje Cakovec,Croatia,25,"24,0",2,€825k,Miljenko Dovecer,61 Years
+179,HNK Hajduk Split II,Croatia,21,"20,7",3,€400k,Mario Despotovic,35 Years
+180,APOEL Nicosia,Cyprus,25,"27,6",18,€21.40m,Marinos Ouzounidis,51 Years
+181,Apollon Limassol,Cyprus,29,"28,0",20,€13.83m,Sofronis Avgousti,43 Years
+182,Omonia Nicosia,Cyprus,27,"26,5",17,€12.95m,Henning Berg,50 Years
+183,Anorthosis Famagusta,Cyprus,28,"28,2",15,€10.88m,Temur Ketsbaia,52 Years
+184,AEK Larnaca,Cyprus,29,"26,8",19,€10.80m,David Caneda Pérez,50 Years
+185,Pafos FC,Cyprus,29,"27,1",24,€9.95m,Cameron Toshack,50 Years
+186,AEL Limassol,Cyprus,24,"27,8",16,€8.70m,Dusan Kerkez,43 Years
+187,Nea Salamina Famagusta,Cyprus,27,"26,9",17,€7.25m,Savvas Poursaitidis,43 Years
+188,Enosis Neon Paralimniou,Cyprus,28,"26,9",14,€6.18m,Cedomir Janevski,58 Years
+189,Olympiakos Nicosia,Cyprus,23,"27,8",16,€6.05m,Pambos Christodoulou,52 Years
+190,Doxa Katokopias,Cyprus,25,"26,9",17,€5.60m,Kostas Sakkas,"Feb 26, 2020"
+191,Ethnikos Achnas,Cyprus,25,"27,9",12,€4.53m,Dean Klafuric,47 Years
+192,AC Sparta Praha,Czech Republic,26,"26,9",12,€40.20m,Vaclav Kotal,67 Years
+193,SK Slavia Prague,Czech Republic,27,"25,0",8,€37.35m,Jindrich Trpisovsky,44 Years
+194,FC Viktoria Plzen,Czech Republic,28,"28,0",7,€26.40m,Adrian Gula,44 Years
+195,FK Jablonec,Czech Republic,28,"26,4",4,€13.45m,Petr Rada,61 Years
+196,FK Mladá Boleslav,Czech Republic,33,"24,1",8,€12.45m,Jozef Weber,49 Years
+197,FC Banik Ostrava,Czech Republic,23,"28,1",4,€11.18m,Lubos Kozel,49 Years
+198,FC Slovan Liberec,Czech Republic,24,"24,2",8,€10.53m,Pavel Hoftych,52 Years
+199,SK Sigma Olomouc,Czech Republic,24,"27,8",2,€9.60m,Radoslav Latal,50 Years
+200,FC Bohemians Prag 1905,Czech Republic,26,"26,9",6,€8.60m,Ludek Klusacek,53 Years
+201,1.FC Slovácko,Czech Republic,24,"27,5",2,€8.00m,Martin Svedik,45 Years
+202,FK Teplice,Czech Republic,26,"27,2",5,€7.63m,Stanislav Hejkal,50 Years
+203,FC FASTAV Zlin,Czech Republic,27,"26,0",11,€7.63m,Jan Kamenik,38 Years
+204,MFK Karvina,Czech Republic,27,"25,7",15,€7.08m,Juraj Jarabek,57 Years
+205,SK Dynamo Ceske Budejovice,Czech Republic,25,"27,7",6,€7.00m,David Horejs,42 Years
+206,1.FK Pribram,Czech Republic,28,"26,3",8,€5.20m,Pavel Horvath,44 Years
+207,Slezsky FC Opava,Czech Republic,25,"28,2",4,€5.15m,Jiri Balcarek,46 Years
+208,FC Zbrojovka Brno,Czech Republic,24,"25,8",4,€5.35m,Miloslav Machalek,58 Years
+209,FC Hradec Králové,Czech Republic,25,"24,1",2,€4.70m,Zdenko Frtala,49 Years
+210,FK Viktoria Zizkov,Czech Republic,29,"25,1",8,€4.68m,Zdenek Hasek,51 Years
+211,FK Pardubice,Czech Republic,27,"23,7",3,€4.58m,Jiri Krejci,55 Years
+212,FK Dukla Prag,Czech Republic,25,"23,3",7,€4.25m,Roman Skuhravy,45 Years
+213,FC Vysocina Jihlava,Czech Republic,24,"24,6",7,€3.78m,Radim Kucera,46 Years
+214,FC Sellier & Bellot Vlašim,Czech Republic,25,"24,3",4,€3.60m,Daniel Smejkal,49 Years
+215,FK Baník Sokolov,Czech Republic,22,"25,5",3,€3.60m,Bohuslav Pilny,47 Years
+216,MFK Chrudim,Czech Republic,26,"25,9",1,€3.50m,Jaroslav Vesely,42 Years
+217,FK Fotbal Trinec,Czech Republic,25,"27,0",5,€3.35m,Svatopluk Habanec,50 Years
+218,FK Slavoj Vysehrad,Czech Republic,25,"24,8",3,€3.25m,Roman Vesely,46 Years
+219,1.SK Prostejov,Czech Republic,23,"27,1",2,€3.10m,Pavel Sustr,45 Years
+220,FK Ustí nad Labem,Czech Republic,18,"23,8",3,€2.98m,Ales Krecek,48 Years
+221,FK Varnsdorf,Czech Republic,19,"24,3",2,€2.95m,David Oulehla,36 Years
+222,MFK Vitkovice,Czech Republic,22,"24,1",1,€2.70m,Ondrej Smetana,37 Years
+223,SK Lisen,Czech Republic,24,"24,5",3,€2.38m,Milan Valachovic,52 Years
+224,FC Copenhagen,Denmark,24,"27,6",13,€47.15m,Staale Solbakken,52 Years
+225,FC Midtjylland,Denmark,28,"25,1",13,€29.75m,Brian Priske,42 Years
+226,FC Nordsjaelland,Denmark,26,"21,2",14,€24.10m,Flemming Pedersen,56 Years
+227,Bröndby IF,Denmark,24,"24,4",9,€20.35m,Reinhold Mielke,82 Years
+228,Esbjerg fB,Denmark,25,"25,7",11,€13.10m,Lars Olsen,59 Years
+229,Aarhus GF,Denmark,24,"24,4",9,€13.05m,David Nielsen,43 Years
+230,Aalborg BK,Denmark,24,"24,7",5,€12.65m,Jacob Friis,43 Years
+231,Odense Boldklub,Denmark,24,"25,2",8,€11.60m,Jakob Michelsen,39 Years
+232,SönderjyskE,Denmark,26,"26,1",10,€9.15m,Glen Riddersholm,47 Years
+233,Randers FC,Denmark,23,"25,5",8,€9.10m,Thomas Thomasberg,45 Years
+234,Silkeborg IF,Denmark,27,"23,7",8,€8.25m,Kent Nielsen,58 Years
+235,AC Horsens,Denmark,23,"25,0",5,€6.85m,Bo Henriksen,45 Years
+236,Lyngby BK,Denmark,24,"26,3",1,€6.85m,Christian Nielsen,46 Years
+237,Hobro IK,Denmark,25,"25,7",10,€6.75m,Peter Sörensen,47 Years
+238,Vejle Boldklub,Denmark,28,"23,9",14,€5.73m,Constantin Galca,48 Years
+239,Vendsyssel FF,Denmark,24,"25,0",6,€5.38m,Johnny Mölby,51 Years
+240,Viborg FF,Denmark,23,"25,5",8,€5.25m,Jacob Neestrup,32 Years
+241,FC Fredericia,Denmark,21,"25,4",3,€4.50m,Jonas Dal Andersen,43 Years
+242,HB Köge,Denmark,24,"24,4",10,€3.95m,Auri Skarbalius,46 Years
+243,Naestved Boldklub,Denmark,30,"23,6",18,€3.68m,Maximilian Dentz,31 Years
+244,BK Fremad Amager,Denmark,25,"23,7",12,€3.45m,Azrudin Valentic,48 Years
+245,Skive IK,Denmark,26,"23,8",0,€3.00m,Thomas Röll,43 Years
+246,Hvidovre IF,Denmark,24,"26,4",3,€2.98m,Per Frandsen,50 Years
+247,Kolding IF,Denmark,22,"25,4",0,€2.85m,Morten Mölkjaer,"Jan 1, 2020"
+248,Nyköbing FC,Denmark,21,"25,7",2,€2.80m,Claus Jensen,42 Years
+249,FC Roskilde,Denmark,25,"22,9",3,€2.60m,Martin Jungsgaard,45 Years
+250,Manchester City,United Kingdom,24,"27,8",19,€1.27bn,Pep Guardiola,49 Years
+251,Liverpool FC,United Kingdom,25,"27,7",16,€1.19bn,Jürgen Klopp,52 Years
+252,Tottenham Hotspur,United Kingdom,25,"26,0",17,€863.50m,José Mourinho,57 Years
+253,Chelsea FC,United Kingdom,27,"26,2",19,€829.05m,Frank Lampard,41 Years
+254,Manchester United,United Kingdom,27,"25,8",17,€798.75m,Ole Gunnar Solskjaer,47 Years
+255,Arsenal FC,United Kingdom,27,"25,5",19,€706.75m,Mikel Arteta,38 Years
+256,Everton FC,United Kingdom,25,"27,4",17,€504.70m,Carlo Ancelotti,60 Years
+257,Leicester City,United Kingdom,26,"27,2",16,€504.25m,Brendan Rodgers,47 Years
+258,Wolverhampton Wanderers,United Kingdom,24,"25,4",20,€365.55m,Nuno Espírito Santo,46 Years
+259,West Ham United,United Kingdom,25,"28,4",17,€351.75m,David Moyes,56 Years
+260,AFC Bournemouth,United Kingdom,29,"26,2",12,€335.75m,Eddie Howe,42 Years
+261,Newcastle United,United Kingdom,31,"27,5",20,€307.83m,Steve Bruce,59 Years
+262,Aston Villa,United Kingdom,27,"27,1",17,€269.90m,Dean Smith,49 Years
+263,Watford FC,United Kingdom,29,"27,9",21,€232.80m,Nigel Pearson,56 Years
+264,Brighton & Hove Albion,United Kingdom,26,"27,1",17,€227.25m,Graham Potter,44 Years
+265,Southampton FC,United Kingdom,21,"25,7",11,€223.50m,Ralph Hasenhüttl,52 Years
+266,Crystal Palace,United Kingdom,21,"29,9",15,€215.00m,Roy Hodgson,72 Years
+267,Burnley FC,United Kingdom,24,"29,1",9,€195.75m,Sean Dyche,48 Years
+268,Sheffield United,United Kingdom,27,"28,0",13,€159.35m,Chris Wilder,52 Years
+269,Norwich City,United Kingdom,22,"27,7",18,€156.35m,Daniel Farke,43 Years
+270,Fulham FC,United Kingdom,28,"26,4",19,€141.75m,Scott Parker,39 Years
+271,West Bromwich Albion,United Kingdom,29,"27,5",13,€103.80m,Slaven Bilic,51 Years
+272,Leeds United,United Kingdom,26,"25,3",15,€103.75m,Marcelo Bielsa,64 Years
+273,Bristol City,United Kingdom,26,"27,1",16,€85.50m,Lee Johnson,38 Years
+274,Brentford FC,United Kingdom,30,"23,8",22,€84.55m,Thomas Frank,46 Years
+275,Middlesbrough FC,United Kingdom,24,"26,2",11,€68.90m,Jonathan Woodgate,40 Years
+276,Nottingham Forest,United Kingdom,28,"27,0",17,€67.35m,Sabri Lamouchi,48 Years
+277,Stoke City,United Kingdom,26,"27,3",13,€66.75m,Michael O'Neill,50 Years
+278,Huddersfield Town,United Kingdom,25,"26,2",10,€64.60m,Danny Cowley,41 Years
+279,Cardiff City,United Kingdom,26,"28,4",24,€64.40m,Neil Harris,42 Years
+280,Swansea City,United Kingdom,23,"25,0",20,€61.50m,Steve Cooper,40 Years
+281,Birmingham City,United Kingdom,25,"26,8",13,€56.80m,Pep Clotet,42 Years
+282,Derby County,United Kingdom,26,"27,1",11,€56.35m,Phillip Cocu,49 Years
+283,Reading FC,United Kingdom,29,"26,2",16,€53.20m,Mark Bowen,56 Years
+284,Sheffield Wednesday,United Kingdom,31,"27,4",15,€43.25m,Garry Monk,41 Years
+285,Queens Park Rangers,United Kingdom,24,"25,6",13,€42.25m,Mark Warburton,57 Years
+286,Blackburn Rovers,United Kingdom,25,"26,8",9,€37.55m,Tony Mowbray,56 Years
+287,Preston North End,United Kingdom,30,"26,3",11,€37.00m,Alex Neil,38 Years
+288,Hull City,United Kingdom,28,"24,8",12,€31.90m,Grant McCann,39 Years
+289,Wigan Athletic,United Kingdom,31,"25,8",16,€31.30m,Paul Cook,53 Years
+290,Millwall FC,United Kingdom,23,"27,7",11,€28.00m,Gary Rowett,46 Years
+291,Luton Town,United Kingdom,31,"26,4",9,€23.95m,Graeme Jones,50 Years
+292,Charlton Athletic,United Kingdom,27,"26,6",11,€20.30m,Lee Bowyer,43 Years
+293,Barnsley FC,United Kingdom,24,"23,4",15,€17.55m,Gerhard Struber,43 Years
+294,Sunderland AFC,United Kingdom,26,"26,8",13,€17.05m,Phil Parkinson,52 Years
+295,Ipswich Town,United Kingdom,27,"26,0",7,€13.68m,Paul Lambert,50 Years
+296,Oxford United,United Kingdom,24,"25,2",6,€12.40m,Karl Robinson,39 Years
+297,Blackpool FC,United Kingdom,27,"25,7",5,€11.45m,Neil Critchley,41 Years
+298,Fleetwood Town,United Kingdom,26,"25,5",11,€8.58m,Joey Barton,37 Years
+299,Shrewsbury Town,United Kingdom,26,"26,1",9,€8.40m,Sam Ricketts,38 Years
+300,Bolton Wanderers,United Kingdom,28,"24,8",8,€7.80m,Keith Hill,50 Years
+301,Rotherham United,United Kingdom,24,"26,3",12,€6.83m,Paul Warne,46 Years
+302,Milton Keynes Dons,United Kingdom,28,"25,5",6,€6.35m,Russell Martin,34 Years
+303,Portsmouth FC,United Kingdom,27,"25,7",8,€6.10m,Kenny Jackett,58 Years
+304,Burton Albion,United Kingdom,28,"26,0",12,€5.28m,Nigel Clough,54 Years
+305,Bristol Rovers,United Kingdom,32,"25,4",8,€5.00m,Ben Garner,39 Years
+306,Coventry City,United Kingdom,26,"24,6",10,€4.73m,Mark Robins,50 Years
+307,Peterborough United,United Kingdom,26,"24,2",6,€4.68m,Darren Ferguson,48 Years
+308,Wycombe Wanderers,United Kingdom,26,"27,0",10,€4.58m,Gareth Ainsworth,46 Years
+309,Lincoln City,United Kingdom,26,"24,6",11,€4.38m,Michael Appleton,44 Years
+310,Rochdale AFC,United Kingdom,27,"25,8",12,€4.20m,Brian Barry-Murphy,41 Years
+311,Southend United,United Kingdom,24,"25,3",8,€3.85m,Sol Campbell,45 Years
+312,Gillingham FC,United Kingdom,20,"25,7",5,€3.48m,Steve Evans,57 Years
+313,Tranmere Rovers,United Kingdom,29,"27,9",6,€3.33m,Micky Mellon,48 Years
+314,Doncaster Rovers,United Kingdom,29,"23,7",7,€3.25m,Darren Moore,45 Years
+315,Accrington Stanley,United Kingdom,37,"24,2",9,€2.38m,John Coleman,57 Years
+316,AFC Wimbledon,United Kingdom,27,"23,7",7,€2.20m,Glyn Hodges,56 Years
+317,HJK Helsinki,Finland,23,"25,9",8,€5.58m,Toni Koskela,37 Years
+318,Kuopion Palloseura,Finland,28,"23,3",11,€4.53m,Arne Erlandsen,60 Years
+319,Ilves Tampere,Finland,26,"22,8",5,€3.25m,Jarkko Wiss,47 Years
+320,SJK Seinäjoki,Finland,25,"25,7",9,€3.13m,Jani Honkavaara,44 Years
+321,FC Honka,Finland,22,"26,5",10,€2.98m,Vesa Vasara,43 Years
+322,FC Lahti,Finland,22,"23,8",5,€2.90m,Ilir Zeneli,36 Years
+323,FC Inter Turku,Finland,18,"25,9",6,€2.80m,Jose Riveiro,44 Years
+324,Helsinki IFK,Finland,26,"25,1",9,€2.58m,Tor Thodesen,54 Years
+325,IFK Mariehamn,Finland,22,"24,7",9,€2.35m,Lukas Syberyjski,38 Years
+326,FC Haka,Finland,21,"23,8",5,€2.13m,Teemu Tainio,40 Years
+327,Turun Palloseura,Finland,25,"25,0",8,€1.70m,Tommi Pikkarainen,50 Years
+328,Rovaniemen Palloseura,Finland,22,"23,9",6,€1.48m,Vesa Tauriainen,52 Years
+329,Kokkolan Pallo-Veikot,Finland,25,"24,2",5,€1.93m,Jani Uotinen,41 Years
+330,FC KTP,Finland,20,"22,2",5,€950k,Argo Arbeiter,46 Years
+331,Mikkelin Palloilijat,Finland,25,"22,6",5,€875k,Juha Pasoja,43 Years
+332,Vaasan Palloseura,Finland,23,"23,0",3,€850k,Christian Sund,41 Years
+333,AC Kajaani,Finland,20,"22,6",6,€750k,Mika Lumijärvi,49 Years
+334,IF Gnistan,Finland,26,"25,6",6,€725k,Roberto Nuccio,53 Years
+335,Myllykosken Pallo -47,Finland,21,"22,7",3,€675k,Ilkka Mäkelä,56 Years
+336,AC Oulu,Finland,23,"23,7",2,€675k,Jyrki Ahola,"Jan 1, 2020"
+337,Ekenäs IF,Finland,20,"22,6",4,€675k,Guillem Santesmases,"Jul 1, 2019"
+338,FF Jaro,Finland,19,"23,7",1,€625k,Niklas Käcko,"Aug 14, 2018"
+339,SJK Seinäjoki II,Finland,23,"19,6",0,€575k,Tommy Dunne,47 Years
+340,Musan Salama,Finland,20,"24,0",2,€500k,Ville Ulanen,37 Years
+341,Paris Saint-Germain,France,29,"26,0",20,€1.02bn,Thomas Tuchel,46 Years
+342,Olympique Lyon,France,29,"24,8",18,€459.00m,Rudi Garcia,56 Years
+343,AS Monaco,France,29,"25,6",29,€343.35m,Robert Moreno,42 Years
+344,LOSC Lille,France,22,"25,0",15,€280.60m,Christophe Galtier,53 Years
+345,Olympique Marseille,France,27,"25,7",9,€258.10m,André Villas-Boas,42 Years
+346,Stade Rennais FC,France,29,"25,3",9,€200.00m,Julien Stéphan,39 Years
+347,OGC Nice,France,25,"23,7",10,€191.65m,Patrick Vieira,43 Years
+348,FC Girondins Bordeaux,France,25,"26,3",14,€128.70m,Paulo Sousa,49 Years
+349,AS Saint-Étienne,France,30,"26,4",9,€117.65m,Claude Puel,58 Years
+350,FC Nantes,France,31,"25,1",15,€101.40m,Christian Gourcuff,65 Years
+351,HSC Montpellier,France,26,"26,5",11,€97.30m,Michel Der Zakarian,57 Years
+352,RC Strasbourg Alsace,France,24,"26,7",9,€92.75m,Thierry Laurey,56 Years
+353,Stade Reims,France,27,"24,2",14,€86.00m,David Guion,52 Years
+354,FC Toulouse,France,30,"24,1",11,€81.15m,Denis Zanko,55 Years
+355,SCO Angers,France,26,"26,5",12,€78.60m,Stéphane Moulin,52 Years
+356,SC Amiens,France,31,"26,0",15,€69.50m,Luka Elsner,37 Years
+357,FC Metz,France,25,"25,4",15,€64.40m,Vincent Hognon,45 Years
+358,Stade Brest 29,France,26,"26,5",6,€57.75m,Olivier Dall'Oglio,55 Years
+359,Nîmes Olympique,France,25,"25,0",8,€56.00m,Bernard Blaquart,62 Years
+360,FCO Dijon,France,24,"26,9",14,€51.60m,Stéphane Jobard,49 Years
+361,ES Troyes AC,France,29,"25,0",13,€27.10m,Laurent Batlles,44 Years
+362,FC Lorient,France,27,"26,5",3,€26.60m,Christophe Pélissier,54 Years
+363,AC Le Havre,France,24,"24,8",11,€24.40m,Paul Le Guen,56 Years
+364,RC Lens,France,26,"26,2",10,€23.85m,Franck Haise,48 Years
+365,EA Guingamp,France,25,"26,1",7,€23.65m,Sylvain Didot,44 Years
+366,SM Caen,France,28,"24,9",11,€20.05m,Pascal Dupraz,57 Years
+367,Paris FC,France,29,"26,6",13,€16.50m,René Girard,66 Years
+368,FC Sochaux-Montbéliard,France,29,"24,2",10,€16.30m,Omar Daf,43 Years
+369,Valenciennes FC,France,27,"24,9",10,€16.05m,Reinhold Mielke,82 Years
+370,AJ Auxerre,France,28,"26,2",9,€15.50m,Jean-Marc Furlan,62 Years
+371,LB Châteauroux,France,25,"25,8",11,€15.20m,Nicolas Usaï,45 Years
+372,FC Chamois Niort,France,28,"24,0",10,€14.65m,Franck Passi,54 Years
+373,FC Le Mans,France,26,"27,2",8,€14.45m,Réginald Ray,51 Years
+374,AS Nancy-Lorraine,France,27,"26,4",12,€14.35m,Jean-Louis Garcia,57 Years
+375,AC Ajaccio,France,27,"25,5",12,€14.30m,Olivier Pantaloni,53 Years
+376,US Orléans,France,29,"25,9",9,€13.55m,Gilbert Zoonekynd,63 Years
+377,Clermont Foot Auvergne 63,France,24,"25,3",10,€13.45m,Pascal Gastien,56 Years
+378,Grenoble Foot 38,France,23,"27,1",13,€12.15m,Philippe Hinschberger,60 Years
+379,Rodez AF,France,28,"26,1",4,€10.40m,Laurent Peyrelade,49 Years
+380,FC Chambly,France,30,"28,8",4,€9.75m,Bruno Luzi,54 Years
+381,Dinamo Tbilisi,Georgia,28,"25,1",6,€8.48m,Kakhaber Chkhetiani,42 Years
+382,Dinamo Batumi,Georgia,23,"27,2",7,€6.20m,George Geguchadze,54 Years
+383,FC Saburtalo,Georgia,25,"24,1",5,€6.05m,Giorgi Tsetsadze,45 Years
+384,FC Locomotive Tbilisi,Georgia,26,"23,0",1,€4.03m,Levan Korgalidze,40 Years
+385,FC Dila Gori,Georgia,22,"23,6",8,€3.63m,Giorgi Nemsadze,47 Years
+386,FC Samtredia,Georgia,28,"26,0",9,€3.58m,Kakhaber Kacharava,53 Years
+387,Torpedo Kutaisi,Georgia,24,"25,3",3,€3.58m,Mikhail Ashvetia,42 Years
+388,FC Telavi,Georgia,24,"25,0",5,€2.73m,Revaz Gotsiridze,39 Years
+389,Chikhura Sachkhere,Georgia,21,"26,7",1,€2.33m,Vakhtang Turmanidze,47 Years
+390,FC Merani Tbilisi,Georgia,23,"30,0",1,€2.18m,Giorgi Daraselia,51 Years
+391,Bayern Munich,Germany,29,"25,1",15,€936.25m,Hans-Dieter Flick,55 Years
+392,Borussia Dortmund,Germany,26,"25,5",15,€691.40m,Lucien Favre,62 Years
+393,RB Leipzig,Germany,29,"23,6",21,€630.40m,Julian Nagelsmann,32 Years
+394,Bayer 04 Leverkusen,Germany,24,"26,3",14,€457.25m,Peter Bosz,56 Years
+395,Borussia Mönchengladbach,Germany,26,"27,5",15,€312.00m,Marco Rose,43 Years
+396,FC Schalke 04,Germany,26,"24,6",20,€255.40m,David Wagner,48 Years
+397,TSG 1899 Hoffenheim,Germany,27,"26,6",18,€235.80m,Alfred Schreuder,47 Years
+398,VfL Wolfsburg,Germany,25,"26,4",18,€230.95m,Oliver Glasner,45 Years
+399,Hertha BSC,Germany,30,"26,0",16,€227.70m,Alexander Nouri,40 Years
+400,Eintracht Frankfurt,Germany,30,"27,5",19,€220.30m,Adi Hütter,50 Years
+401,SV Werder Bremen,Germany,32,"26,8",17,€164.95m,Florian Kohfeldt,37 Years
+402,1.FSV Mainz 05,Germany,33,"24,1",17,€147.90m,Achim Beierlorzer,52 Years
+403,SC Freiburg,Germany,27,"26,1",9,€146.90m,Christian Streich,54 Years
+404,FC Augsburg,Germany,33,"26,0",17,€131.65m,Heiko Herrlich,48 Years
+405,1. FC Köln,Germany,29,"26,0",9,€111.70m,Markus Gisdol,50 Years
+406,Fortuna Düsseldorf,Germany,36,"26,4",16,€85.65m,Uwe Rösler,51 Years
+407,1.FC Union Berlin,Germany,32,"26,7",11,€50.35m,Urs Fischer,54 Years
+408,SC Paderborn 07,Germany,28,"25,2",11,€32.95m,Steffen Baumgart,48 Years
+409,VfB Stuttgart,Germany,29,"24,4",14,€69.55m,Pellegrino Matarazzo,42 Years
+410,Hamburger SV,Germany,30,"25,5",14,€55.15m,Dieter Hecking,55 Years
+411,Hannover 96,Germany,31,"26,1",8,€41.30m,Kenan Kocak,39 Years
+412,1.FC Nuremberg,Germany,28,"26,3",11,€34.55m,Jens Keller,49 Years
+413,Arminia Bielefeld,Germany,29,"26,0",9,€24.70m,Uwe Neuhaus,60 Years
+414,1.FC Heidenheim 1846,Germany,27,"26,0",1,€22.10m,Frank Schmidt,46 Years
+415,Holstein Kiel,Germany,27,"24,9",7,€21.55m,Ole Werner,31 Years
+416,FC St. Pauli,Germany,32,"25,9",13,€20.90m,Jos Luhukay,56 Years
+417,VfL Bochum,Germany,30,"25,6",10,€19.70m,Reinhold Mielke,82 Years
+418,SG Dynamo Dresden,Germany,29,"25,8",8,€17.33m,Markus Kauczinski,50 Years
+419,SV Darmstadt 98,Germany,31,"26,1",6,€16.30m,Dimitrios Grammozis,41 Years
+420,FC Erzgebirge Aue,Germany,27,"26,9",8,€15.95m,Dirk Schuster,52 Years
+421,SpVgg Greuther Fürth,Germany,27,"24,7",7,€15.35m,Stefan Leitl,42 Years
+422,SSV Jahn Regensburg,Germany,27,"26,7",3,€13.45m,Mersad Selimbegovic,37 Years
+423,VfL Osnabrück,Germany,28,"26,5",7,€13.40m,Daniel Thioune,45 Years
+424,SV Sandhausen,Germany,28,"28,2",10,€13.35m,Uwe Koschinat,48 Years
+425,SV Wehen Wiesbaden,Germany,34,"24,9",3,€12.10m,Rüdiger Rehm,41 Years
+426,Karlsruher SC,Germany,28,"26,7",10,€10.65m,Christian Eichner,37 Years
+427,FC Bayern Munich II,Germany,30,"22,0",9,€36.00m,Sebastian Hoeneß,37 Years
+428,1.FC Kaiserslautern,Germany,33,"24,3",6,€8.40m,Boris Schommers,41 Years
+429,FC Ingolstadt 04,Germany,26,"24,9",5,€7.78m,Matthias Grote,32 Years
+430,KFC Uerdingen 05,Germany,28,"27,5",11,€7.43m,Stefan Krämer,53 Years
+431,Eintracht Braunschweig,Germany,29,"26,5",3,€7.10m,Marco Antwerpen,48 Years
+432,FC Hansa Rostock,Germany,28,"25,4",7,€6.78m,Jens Härtel,50 Years
+433,SpVgg Unterhaching,Germany,25,"26,8",1,€6.28m,Claus Schromm,50 Years
+434,Hallescher FC,Germany,27,"25,5",2,€6.23m,Ismail Atalan,40 Years
+435,1.FC Magdeburg,Germany,24,"25,9",5,€6.10m,Claus-Dieter Wollitz,54 Years
+436,MSV Duisburg,Germany,24,"25,2",4,€6.08m,Torsten Lieberknecht,46 Years
+437,TSV 1860 Munich,Germany,30,"25,3",1,€5.98m,Michael Köllner,50 Years
+438,Würzburger Kickers,Germany,28,"23,8",3,€5.53m,Michael Schiele,42 Years
+439,FC Viktoria Köln,Germany,30,"26,2",4,€5.33m,Pavel Dotchev,54 Years
+440,FC Carl Zeiss Jena,Germany,32,"24,6",6,€5.03m,René Klingbeil,39 Years
+441,SV Meppen,Germany,26,"26,2",6,€5.00m,Christian Neidhart,51 Years
+442,SV Waldhof Mannheim,Germany,27,"25,9",8,€4.78m,Bernhard Trares,54 Years
+443,FSV Zwickau,Germany,26,"26,0",3,€4.65m,Joe Enochs,48 Years
+444,Preußen Münster,Germany,26,"25,2",1,€4.65m,Sascha Hildmann,47 Years
+445,Chemnitzer FC,Germany,27,"25,6",7,€4.65m,Patrick Glöckner,43 Years
+446,SG Sonnenhof Großaspach,Germany,29,"25,5",6,€4.33m,Hans-Jürgen Boysen,62 Years
+447,Olympiacos Piraeus,Greece,29,"27,0",19,€73.80m,Pedro Martins,49 Years
+448,PAOK Thessaloniki,Greece,27,"27,0",19,€65.00m,Abel Ferreira,41 Years
+449,AEK Athens,Greece,28,"25,9",15,€34.60m,Massimo Carrera,55 Years
+450,Panathinaikos Athens,Greece,34,"23,8",13,€23.10m,Georgios Donis,50 Years
+451,Atromitos Athen,Greece,26,"26,7",10,€13.55m,Savvas Pantelidis,54 Years
+452,AE Larisa,Greece,33,"26,5",19,€12.78m,Michalis Grigoriou,46 Years
+453,Aris Thessaloniki,Greece,26,"27,6",18,€12.75m,Michael Oenning,54 Years
+454,OFI Crete,Greece,31,"25,6",11,€11.10m,Georgios Simos,42 Years
+455,AO Xanthi,Greece,30,"26,8",19,€10.60m,Georgios Paraschos,67 Years
+456,Asteras Tripolis,Greece,34,"25,2",20,€9.98m,Milan Rastavac,46 Years
+457,Panetolikos GFS,Greece,28,"26,2",17,€8.35m,Makis Chavos,50 Years
+458,Volos NPS,Greece,26,"25,5",10,€7.90m,Stefanos Xirofotos,44 Years
+459,PAS Lamia 1964,Greece,32,"27,2",13,€7.40m,Apostolos Mantzios,50 Years
+460,Panionios Athens,Greece,29,"24,8",10,€7.28m,Leonidas Vokolos,49 Years
+461,Apollon Smyrnis,Greece,29,"27,0",9,€6.40m,Babis Tennes,66 Years
+462,PAS Giannina,Greece,27,"25,0",5,€6.10m,Argirios Giannikis,39 Years
+463,PAE Chania,Greece,27,"27,5",2,€5.23m,Alekos Vosniadis,58 Years
+464,GS Ergotelis,Greece,28,"23,2",9,€4.15m,Giannis Taousianis,47 Years
+465,APO Levadiakos,Greece,24,"25,4",7,€4.15m,Sotiris Antoniou,44 Years
+466,AO Platanias,Greece,30,"23,1",4,€3.90m,Giannis Tatsis,47 Years
+467,Panachaiki GE,Greece,27,"24,1",4,€3.38m,Sokratis Ofrydopoulos,46 Years
+468,Apollon Larisas,Greece,27,"24,4",4,€3.25m,Arjan Bellaj,49 Years
+469,Doxa Dramas,Greece,24,"24,5",5,€2.98m,Konstantinos Vasilakakis,63 Years
+470,AE Karaiskakis Artas,Greece,27,"24,8",2,€2.33m,Reinhold Mielke,82 Years
+471,Apollon Pontou,Greece,22,"21,4",3,€650k,Dimitrios Kalaitzidis,63 Years
+472,AOK Kerkyra,Greece,28,"20,7",6,€225k,Christos Vasalos,46 Years
+473,Ferencvárosi TC,Hungary,30,"26,6",15,€23.63m,Sergiy Rebrov,45 Years
+474,MOL Fehérvár FC,Hungary,30,"26,9",11,€22.03m,Joan Carrillo,51 Years
+475,Puskás Akadémia FC,Hungary,29,"25,0",12,€9.40m,Zsolt Hornyak,47 Years
+476,Budapest Honvéd FC,Hungary,25,"27,8",11,€9.03m,István Urbányi,52 Years
+477,Debreceni VSC,Hungary,27,"26,1",7,€7.88m,Zoltán Vitelki,49 Years
+478,Újpest FC,Hungary,26,"25,7",12,€6.93m,Nebojsa Vignjevic,51 Years
+479,Diósgyőri VTK,Hungary,27,"25,5",11,€6.08m,Tamás Feczkó,42 Years
+480,Mezőkövesd Zsóry FC,Hungary,23,"27,1",9,€5.95m,Attila Kuttor,49 Years
+481,Paksi FC,Hungary,26,"28,3",0,€5.65m,Gábor Osztermájer,42 Years
+482,Zalaegerszegi TE FC,Hungary,22,"25,8",8,€5.60m,Gábor Márton,53 Years
+483,Kisvárda FC,Hungary,24,"27,9",14,€5.28m,Tamás Bódog,49 Years
+484,Kaposvári Rákóczi FC,Hungary,27,"26,7",4,€4.05m,László Disztl,57 Years
+485,KR Reykjavík,Iceland,29,"26,3",4,€2.80m,Rúnar Kristinsson,50 Years
+486,Valur Reykjavík,Iceland,25,"26,7",6,€2.65m,Heimir Gudjónsson,51 Years
+487,Stjarnan Gardabaer,Iceland,26,"27,2",1,€2.28m,Rúnar Páll Sigmundsson,45 Years
+488,Breidablik Kópavogur,Iceland,26,"24,1",2,€2.13m,Óskar Hrafn Thorvaldsson,46 Years
+489,KA Akureyri,Iceland,29,"24,4",4,€2.05m,Óli Stefán Flóventsson,44 Years
+490,FH Hafnarfjördur,Iceland,20,"26,0",3,€1.78m,Ólafur Helgi Kristjánsson,51 Years
+491,Víkingur Reykjavík,Iceland,24,"25,2",2,€1.58m,Arnar Gunnlaugsson,47 Years
+492,Fylkir Reykjavík,Iceland,25,"25,6",3,€1.35m,Ólafur Ingi Stígsson,44 Years
+493,ÍA Akranes,Iceland,25,"23,6",1,€1.05m,Joey Gudjónsson,39 Years
+494,HK Kópavogs,Iceland,24,"24,8",0,€950k,Brynjar Gunnarsson,44 Years
+495,Fjölnir Reykjavík,Iceland,23,"22,4",0,€750k,Ásmundur Arnarsson,48 Years
+496,ÍF Grótta,Iceland,29,"22,0",0,€700k,Ágúst Thór Gylfason,48 Years
+497,Juventus FC,Italy,23,"29,5",16,€755.50m,Maurizio Sarri,61 Years
+498,Inter Milan,Italy,26,"28,7",15,€685.40m,Antonio Conte,50 Years
+499,SSC Napoli,Italy,26,"27,9",21,€656.00m,Gennaro Gattuso,42 Years
+500,AS Roma,Italy,28,"27,2",20,€431.30m,Paulo Fonseca,47 Years
+501,AC Milan,Italy,24,"26,3",17,€398.50m,Stefano Pioli,54 Years
+502,SS Lazio,Italy,28,"27,3",20,€372.65m,Simone Inzaghi,44 Years
+503,Atalanta BC,Italy,22,"26,8",17,€331.60m,Gian Piero Gasperini,62 Years
+504,ACF Fiorentina,Italy,26,"25,6",17,€309.60m,Giuseppe Iachini,55 Years
+505,Cagliari Calcio,Italy,25,"28,7",14,€186.10m,Walter Zenga,59 Years
+506,Torino FC,Italy,22,"27,4",12,€181.05m,Moreno Longo,44 Years
+507,US Sassuolo,Italy,27,"26,4",13,€170.00m,Roberto De Zerbi,40 Years
+508,Parma Calcio 1913,Italy,27,"28,4",13,€151.10m,Roberto D'Aversa,44 Years
+509,Bologna FC 1909,Italy,24,"26,7",18,€142.13m,Sinisa Mihajlovic,51 Years
+510,UC Sampdoria,Italy,27,"26,7",14,€138.35m,Claudio Ranieri,68 Years
+511,Hellas Verona,Italy,28,"26,1",13,€128.48m,Ivan Juric,44 Years
+512,Genoa CFC,Italy,28,"28,4",15,€125.80m,Davide Nicola,47 Years
+513,Udinese Calcio,Italy,23,"27,6",18,€124.50m,Luca Gotti,52 Years
+514,Brescia Calcio,Italy,25,"26,7",9,€93.10m,Diego López,45 Years
+515,SPAL,Italy,28,"27,6",14,€74.05m,Luigi Di Biagio,48 Years
+516,US Lecce,Italy,24,"28,4",9,€54.55m,Fabio Liverani,43 Years
+517,FC Empoli,Italy,28,"25,6",7,€35.25m,Pasquale Marino,57 Years
+518,Ascoli Calcio,Italy,29,"25,7",9,€26.10m,Roberto Stellone,42 Years
+519,AC Perugia Calcio,Italy,27,"25,7",9,€26.10m,Serse Cosmi,61 Years
+520,Benevento Calcio,Italy,27,"28,0",7,€24.17m,Filippo Inzaghi,46 Years
+521,Frosinone Calcio,Italy,27,"27,3",5,€23.25m,Alessandro Nesta,44 Years
+522,FC Crotone,Italy,28,"27,0",13,€19.90m,Giovanni Stroppa,52 Years
+523,AS Livorno,Italy,31,"26,2",13,€19.13m,Antonio Filippini,46 Years
+524,Delfino Pescara 1936,Italy,31,"27,3",7,€18.50m,Nicola Legrottaglie,43 Years
+525,Chievo Verona,Italy,33,"25,3",17,€18.20m,Alfredo Aglietti,49 Years
+526,US Salernitana 1919,Italy,27,"27,1",12,€18.03m,Gian Piero Ventura,72 Years
+527,Spezia Calcio,Italy,26,"26,2",10,€17.75m,Vincenzo Italiano,42 Years
+528,US Cremonese,Italy,25,"27,6",6,€16.85m,Pierpaolo Bisoli,53 Years
+529,Virtus Entella,Italy,27,"27,2",3,€16.20m,Roberto Boscaglia,51 Years
+530,Trapani Calcio,Italy,32,"26,1",11,€15.65m,Fabrizio Castori,65 Years
+531,AC Pisa 1909,Italy,28,"26,6",3,€14.10m,Luca D'Angelo,48 Years
+532,Pordenone Calcio,Italy,25,"28,1",1,€13.50m,Attilio Tesser,61 Years
+533,AS Cittadella,Italy,26,"26,4",0,€12.08m,Roberto Venturato,56 Years
+534,Cosenza Calcio,Italy,25,"27,0",10,€11.93m,Roberto Occhiuzzi,40 Years
+535,Venezia FC,Italy,31,"26,4",5,€11.85m,Alessio Dionisi,40 Years
+536,SS Juve Stabia,Italy,28,"27,6",6,€10.65m,Fabio Caserta,41 Years
+537,FC Astana,Kazakhstan,23,"28,5",11,€28.65m,Michal Bilek,54 Years
+538,Kairat Almaty,Kazakhstan,26,"23,5",9,€22.80m,Aleksey Shpilevski,32 Years
+539,Tobol Kostanay,Kazakhstan,23,"26,7",8,€15.30m,Grigori Babayan,40 Years
+540,Ordabasy Shymkent,Kazakhstan,26,"27,6",9,€15.18m,Kakhaber Tskhadadze,51 Years
+541,Kaysar Kyzylorda,Kazakhstan,25,"27,7",9,€11.73m,Stoycho Mladenov,62 Years
+542,Zhetysu Taldykorgan,Kazakhstan,24,"29,3",13,€9.80m,Dmitri Ogai,59 Years
+543,Shakhter Karaganda,Kazakhstan,23,"26,9",13,€8.88m,Viacheslav Hroznyi,63 Years
+544,Irtysh Pavlodar,Kazakhstan,23,"27,4",12,€7.90m,Milan Milanovic,57 Years
+545,Kaspiy Aktau,Kazakhstan,26,"27,2",10,€7.33m,Srdjan Blagojevic,46 Years
+546,Okzhetpes Kokshetau,Kazakhstan,26,"27,0",12,€7.28m,Andrey Karpovich,39 Years
+547,Qyzyljar SK Petropavlovsk,Kazakhstan,29,"27,6",13,€7.08m,Veaceslav Rusnac,44 Years
+548,FK Taraz,Kazakhstan,25,"26,3",10,€5.90m,Vladimir Nikitenko,63 Years
+549,Sheriff Tiraspol,Moldova,25,"26,2",19,€10.03m,Zoran Zekic,45 Years
+550,CSF Speranta Nisporeni,Moldova,32,"26,3",12,€4.53m,Iurie Osipenco,45 Years
+551,FC Petrocub Hîncești,Moldova,26,"25,4",5,€4.15m,Lilian Popescu,46 Years
+552,FC Sfintul Gheorghe,Moldova,25,"26,9",4,€4.08m,Serghei Cebotari,39 Years
+553,FC Milsami Orhei,Moldova,21,"23,5",2,€2.23m,Vladimir Veber,78 Years
+554,FC Floreşti,Moldova,16,"29,2",1,€1.35m,Iurie Grosev,43 Years
+555,Codru Lozova,Moldova,26,"23,9",3,€1.05m,Simeon Bulgaru,34 Years
+556,Dacia Buiucani,Moldova,15,"22,2",0,€300k,Andrei Martin,45 Years
+557,Ajax Amsterdam,Netherlands,27,"24,6",14,€434.90m,Erik ten Hag,50 Years
+558,PSV Eindhoven,Netherlands,24,"25,0",12,€162.60m,Ernest Faber,48 Years
+559,AZ Alkmaar,Netherlands,24,"24,0",8,€131.80m,Arne Slot,41 Years
+560,Feyenoord Rotterdam,Netherlands,25,"25,1",11,€98.28m,Dick Advocaat,72 Years
+561,FC Utrecht,Netherlands,23,"25,7",8,€47.90m,John van den Brom,53 Years
+562,SC Heerenveen,Netherlands,24,"23,0",9,€28.33m,Johnny Jansen,45 Years
+563,Vitesse Arnhem,Netherlands,25,"25,0",12,€25.45m,Edward Sturing,56 Years
+564,Willem II Tilburg,Netherlands,25,"24,0",14,€24.65m,Adrie Koster,65 Years
+565,FC Twente Enschede,Netherlands,26,"24,4",14,€22.90m,Gonzalo García,36 Years
+566,Heracles Almelo,Netherlands,30,"24,3",14,€22.65m,Frank Wormuth,59 Years
+567,FC Groningen,Netherlands,24,"23,0",10,€21.40m,Danny Buijs,37 Years
+568,ADO Den Haag,Netherlands,26,"27,4",10,€18.03m,Alan Pardew,58 Years
+569,PEC Zwolle,Netherlands,25,"24,9",9,€15.78m,John Stegeman,43 Years
+570,FC Emmen,Netherlands,34,"25,2",15,€15.23m,Dick Lukkien,48 Years
+571,Sparta Rotterdam,Netherlands,21,"25,6",6,€14.80m,Henk Fraser,53 Years
+572,Fortuna Sittard,Netherlands,29,"22,6",21,€14.15m,Sjors Ultee,32 Years
+573,VVV-Venlo,Netherlands,28,"24,6",11,€13.25m,Hans de Koning,60 Years
+574,RKC Waalwijk,Netherlands,27,"25,8",9,€10.48m,Fred Grim,54 Years
+575,Ajax Amsterdam U21,Netherlands,27,"19,6",9,€46.55m,Mitchell van der Gaag,48 Years
+576,AZ Alkmaar U21,Netherlands,27,"20,3",5,€10.35m,Koen Stam,33 Years
+577,NAC Breda,Netherlands,27,"22,6",10,€9.33m,Peter Hyballa,44 Years
+578,Almere City FC,Netherlands,31,"25,0",6,€9.28m,Ole Tobiasen,44 Years
+579,SBV Excelsior Rotterdam,Netherlands,24,"24,2",6,€8.33m,Marinus Dijkhuizen,48 Years
+580,De Graafschap Doetinchem,Netherlands,28,"24,9",3,€8.10m,Mike Snoei,56 Years
+581,SC Cambuur-Leeuwarden,Netherlands,26,"24,6",5,€7.18m,Henk de Jong,55 Years
+582,Go Ahead Eagles Deventer,Netherlands,29,"24,2",9,€6.75m,Jack de Gier,51 Years
+583,Roda JC Kerkrade,Netherlands,23,"23,9",15,€6.60m,René Trost,55 Years
+584,PSV Eindhoven U21,Netherlands,23,"20,1",11,€6.48m,Peter Uneken,48 Years
+585,NEC Nijmegen,Netherlands,24,"23,5",4,€6.33m,François Gesthuizen,47 Years
+586,FC Volendam,Netherlands,28,"22,4",6,€6.30m,Wim Jonk,53 Years
+587,FC Den Bosch,Netherlands,28,"23,0",6,€5.43m,Erik van der Ven,36 Years
+588,TOP Oss,Netherlands,26,"26,1",6,€4.88m,Klaas Wels,46 Years
+589,SC Telstar,Netherlands,26,"23,4",8,€4.73m,Andries Jonker,57 Years
+590,MVV Maastricht,Netherlands,20,"23,4",10,€4.65m,Fuat Usta,47 Years
+591,FC Eindhoven,Netherlands,29,"22,9",10,€4.38m,Ernie Brandts,64 Years
+592,FC Dordrecht,Netherlands,24,"22,6",5,€4.05m,Harry van den Ham,65 Years
+593,Helmond Sport,Netherlands,23,"24,1",3,€3.98m,Wil Boessen,55 Years
+594,FC Utrecht U21,Netherlands,23,"20,4",4,€3.03m,René Hake,48 Years
+595,Rosenborg BK,Norway,24,"24,8",3,€15.50m,Eirik Horneland,45 Years
+596,Molde FK,Norway,26,"25,8",6,€13.55m,Erling Moe,49 Years
+597,SK Brann,Norway,22,"27,4",9,€9.40m,Lars Arne Nilsen,56 Years
+598,FK Bodø/Glimt,Norway,27,"22,7",6,€7.48m,Kjetil Knutsen,51 Years
+599,Stabæk Fotball,Norway,25,"23,9",9,€7.35m,Reinhold Mielke,82 Years
+600,Sarpsborg 08 FF,Norway,28,"25,1",8,€7.25m,Mikael Stahre,44 Years
+601,Odds BK,Norway,22,"24,2",2,€7.20m,Jan Frode Nornes,47 Years
+602,Vålerenga Fotball,Norway,26,"24,8",9,€7.20m,Dag-Eilev Fagermo,53 Years
+603,Viking Stavanger,Norway,23,"25,7",4,€7.15m,Bjarne Berntsen,63 Years
+604,Strømsgodset IF,Norway,27,"23,2",8,€6.98m,Henrik Pedersen,42 Years
+605,FK Haugesund,Norway,22,"24,6",8,€6.90m,-,-
+606,Kristiansund BK,Norway,24,"26,0",7,€6.60m,Christian Michelsen,44 Years
+607,Aalesunds FK,Norway,24,"25,6",9,€6.60m,Lars Bohinen,50 Years
+608,Mjøndalen IF,Norway,25,"26,5",8,€5.25m,Vegard Hansen,50 Years
+609,IK Start,Norway,26,"24,0",7,€5.13m,Johannes Thór Hardarson,43 Years
+610,Sandefjord Fotball,Norway,23,"24,3",8,€4.30m,Martí Cifuentes,37 Years
+611,Legia Warszawa,Poland,28,"27,0",14,€29.15m,Aleksandar Vukovic,40 Years
+612,Lech Poznan,Poland,29,"23,6",11,€24.70m,Dariusz Zuraw,47 Years
+613,Jagiellonia Bialystok,Poland,32,"24,1",14,€14.73m,Ivaylo Petev,44 Years
+614,Lechia Gdansk,Poland,33,"24,1",14,€12.88m,Piotr Stokowiec,47 Years
+615,Cracovia,Poland,29,"25,1",17,€10.95m,Michal Probierz,47 Years
+616,Wisla Kraków,Poland,31,"25,9",9,€10.03m,Artur Skowronek,37 Years
+617,Pogon Szczecin,Poland,30,"24,0",10,€9.90m,Kosta Runjaic,48 Years
+618,Górnik Zabrze,Poland,29,"24,7",10,€9.85m,Marcin Brosz,46 Years
+619,Piast Gliwice,Poland,29,"26,7",11,€9.75m,Waldemar Fornalik,56 Years
+620,Zaglebie Lubin,Poland,31,"24,2",8,€9.40m,Martin Sevela,44 Years
+621,Slask Wroclaw,Poland,32,"25,9",11,€9.23m,Reinhold Mielke,82 Years
+622,Wisla Plock,Poland,28,"26,8",6,€8.50m,Radoslaw Sobolewski,43 Years
+623,Arka Gdynia,Poland,31,"26,2",12,€7.88m,Krzysztof Sobieraj,38 Years
+624,Korona Kielce,Poland,38,"24,3",19,€7.40m,Maciej Bartoszek,42 Years
+625,Rakow Czestochowa,Poland,25,"25,6",10,€6.70m,Marek Papszun,45 Years
+626,LKS Lodz,Poland,28,"26,2",7,€4.95m,Kazimierz Moskal,53 Years
+627,SL Benfica,Portugal,24,"25,6",13,€331.50m,Bruno Lage,43 Years
+628,FC Porto,Portugal,25,"26,7",16,€268.40m,Sérgio Conceição,45 Years
+629,Sporting CP,Portugal,26,"25,9",19,€120.25m,Rúben Amorim,35 Years
+630,SC Braga,Portugal,26,"26,6",10,€109.35m,Custódio,36 Years
+631,Vitória Guimarães SC,Portugal,31,"25,5",23,€49.55m,Ivo Vieira,44 Years
+632,FC Famalicão,Portugal,24,"24,2",17,€43.45m,João Pedro Sousa,48 Years
+633,Rio Ave FC,Portugal,23,"26,9",15,€24.40m,Carlos Carvalhal,54 Years
+634,Portimonense SC,Portugal,25,"25,4",19,€22.35m,Paulo Sérgio,52 Years
+635,CS Marítimo,Portugal,21,"27,1",16,€17.30m,José Gomes,49 Years
+636,Moreirense FC,Portugal,27,"27,1",17,€16.70m,Ricardo Soares,45 Years
+637,Boavista Porto FC,Portugal,26,"27,1",19,€15.58m,Daniel Ramos,49 Years
+638,Vitória Setúbal FC,Portugal,29,"27,0",16,€15.35m,Julio Velázquez,38 Years
+639,CD Santa Clara,Portugal,24,"26,8",11,€14.80m,João Henriques,47 Years
+640,FC Paços de Ferreira,Portugal,25,"27,0",14,€14.70m,Pepa,39 Years
+641,Belenenses SAD,Portugal,28,"25,9",11,€14.30m,Petit,43 Years
+642,CD Tondela,Portugal,24,"25,4",12,€13.65m,Natxo González,53 Years
+643,Gil Vicente FC,Portugal,25,"26,0",17,€13.65m,Vítor Oliveira,66 Years
+644,Desportivo Aves,Portugal,29,"25,1",19,€13.55m,Nuno Manta Santos,41 Years
+645,SL Benfica B,Portugal,24,"20,7",12,€14.75m,Renato Paiva,50 Years
+646,FC Porto B,Portugal,24,"21,1",10,€9.80m,Rui Barros,54 Years
+647,Estoril Praia,Portugal,31,"25,7",15,€8.43m,Pedro Duarte,40 Years
+648,GD Chaves,Portugal,34,"26,1",17,€7.70m,César Peixoto,39 Years
+649,Leixões SC,Portugal,32,"26,9",12,€6.93m,Manuel Cajuda,68 Years
+650,CD Nacional,Portugal,31,"25,9",22,€6.75m,Luís Freire,34 Years
+651,SC Farense,Portugal,24,"27,9",13,€6.70m,Sérgio Vieira,37 Years
+652,UD Vilafranquense,Portugal,29,"26,3",16,€6.20m,Armando Evangelista,46 Years
+653,Varzim SC,Portugal,30,"25,7",14,€6.08m,Paulo Alves,50 Years
+654,CD Mafra,Portugal,26,"26,1",6,€5.68m,Vasco Seabra,36 Years
+655,Académico Viseu FC,Portugal,27,"27,4",11,€5.45m,Rui Borges,38 Years
+656,CD Feirense,Portugal,25,"27,8",11,€5.08m,Filó,47 Years
+657,CD Cova Piedade,Portugal,30,"27,6",22,€5.08m,João Alves,67 Years
+658,UD Oliveirense,Portugal,31,"25,7",15,€5.00m,Pedro Miguel,52 Years
+659,FC Penafiel,Portugal,27,"26,9",9,€4.95m,Miguel Leal,54 Years
+660,Académica Coimbra,Portugal,25,"26,8",7,€4.88m,João Carlos Pereira,54 Years
+661,SC Covilhã,Portugal,26,"27,8",14,€4.60m,Daúto Faquirá,54 Years
+662,Casa Pia AC,Portugal,25,"25,3",14,€3.98m,Ricardo Peres,44 Years
+663,FCSB,Romania,25,"25,9",4,€34.70m,Bogdan Vintila,48 Years
+664,CFR Cluj,Romania,30,"28,0",14,€31.23m,Dan Petrescu,52 Years
+665,CS Universitatea Craiova,Romania,32,"25,9",10,€26.50m,Corneliu Papura,46 Years
+666,Astra Giurgiu,Romania,29,"26,5",11,€18.10m,Bogdan Andone,45 Years
+667,FC Viitorul,Romania,36,"22,9",5,€16.20m,Gheorghe Hagi,55 Years
+668,Dinamo Bukarest,Romania,30,"25,0",9,€11.83m,Adrian Mihalcea,43 Years
+669,FC Voluntari,Romania,35,"25,3",11,€10.90m,Mihai Teja,41 Years
+670,Gaz Metan Medias,Romania,26,"27,7",10,€9.30m,Edward Iordanescu,41 Years
+671,FC Botosani,Romania,29,"25,8",16,€8.95m,Marius Croitoru,39 Years
+672,Sepsi Sf. Gheorghe,Romania,29,"25,5",11,€8.93m,Leontin Grozavu,52 Years
+673,FC Hermannstadt,Romania,30,"27,5",13,€8.45m,Vasile Miriuta,51 Years
+674,FC Politehnica Iasi,Romania,27,"26,9",12,€6.85m,Mircea Rednic,57 Years
+675,Academica Clinceni,Romania,29,"26,1",11,€6.75m,Ilie Poenaru,43 Years
+676,AFC Chindia Targoviste,Romania,27,"26,0",6,€6.33m,Viorel Moldovan,47 Years
+677,FC Rapid 1923,Romania,28,"24,1",8,€4.88m,Dan Alexa,40 Years
+678,Concordia Chiajna,Romania,33,"23,2",6,€4.33m,Florin Bratu,40 Years
+679,UTA Arad,Romania,26,"24,5",3,€4.05m,László Balint,41 Years
+680,Universitatea Cluj,Romania,30,"24,0",3,€3.88m,Adrian Falub,48 Years
+681,Petrolul Ploiesti,Romania,27,"25,0",7,€3.80m,Constantin Enache,47 Years
+682,SCM FC Arges,Romania,28,"25,0",4,€3.78m,Ionut Badea,44 Years
+683,AFK Csikszereda Miercurea Ciuc,Romania,42,"22,8",13,€3.70m,Valentin Suciu,39 Years
+684,CS Mioveni,Romania,27,"25,6",2,€3.45m,Claudiu Niculescu,43 Years
+685,Turris Turnu Măgurele,Romania,29,"25,2",2,€3.30m,Erik Lincar,41 Years
+686,ACS Viitorul Tg. Jiu,Romania,31,"23,2",1,€3.18m,Cristian Luput,42 Years
+687,Dunarea Calarasi,Romania,28,"25,1",9,€3.03m,Cristian Pustai,54 Years
+688,FC Metaloglobus Bukarest,Romania,25,"25,5",1,€2.78m,Marius Maldarasanu,44 Years
+689,SSC Farul Constanta,Romania,26,"23,0",2,€2.75m,Ianis Zicu,36 Years
+690,Gloria Buzau,Romania,26,"25,0",0,€2.75m,Ilie Stan,52 Years
+691,Ripensia Timisoara,Romania,26,"24,0",3,€2.68m,Alexandru Pelici,46 Years
+692,ASU Poli Timisoara,Romania,24,"24,1",1,€2.63m,Octavian Benga,39 Years
+693,CSM Resita,Romania,30,"26,4",3,€2.55m,Dorinel Munteanu,51 Years
+694,Pandurii Targu Jiu,Romania,33,"21,1",3,€1.60m,Calin Cojocaru,41 Years
+695,CS Sportul Snagov,Romania,16,"22,9",1,€925k,Florentin Dumitru,42 Years
+696,Zenit St. Petersburg,Russia,24,"27,5",10,€205.60m,Sergey Semak,44 Years
+697,FK Krasnodar,Russia,25,"27,6",12,€143.80m,Murad Musaev,36 Years
+698,CSKA Moscow,Russia,24,"23,8",8,€133.93m,Viktor Goncharenko,42 Years
+699,Lokomotiv Moscow,Russia,27,"27,7",12,€129.10m,Yuri Semin,72 Years
+700,Spartak Moscow,Russia,25,"25,0",8,€119.00m,Domenico Tedesco,34 Years
+701,Dinamo Moscow,Russia,24,"28,0",8,€73.70m,Kirill Novikov,39 Years
+702,Rubin Kazan,Russia,28,"24,7",9,€51.43m,Leonid Slutski,48 Years
+703,FK Rostov,Russia,22,"26,2",6,€46.88m,-,-
+704,Akhmat Grozny,Russia,28,"27,1",10,€39.58m,Igor Shalimov,51 Years
+705,Arsenal Tula,Russia,30,"27,4",12,€37.15m,Igor Cherevchenko,45 Years
+706,FC Sochi,Russia,25,"27,9",9,€36.65m,Vladimir Fedotov,53 Years
+707,FK Ufa,Russia,28,"25,8",8,€27.50m,Vadim Evseev,44 Years
+708,Ural Yekaterinburg,Russia,25,"28,1",10,€26.95m,Dmitri Parfenov,45 Years
+709,FK Orenburg,Russia,26,"27,0",13,€25.00m,Konstantin Emeljanov,50 Years
+710,Krylya Sovetov Samara,Russia,27,"28,0",7,€24.30m,Miodrag Bozovic,51 Years
+711,FK Tambov,Russia,24,"27,6",4,€15.10m,Sergey Pervushin,50 Years
+712,FK Nizhny Novgorod,Russia,24,"26,6",0,€11.70m,Robert Evdokimov,50 Years
+713,Rotor Volgograd,Russia,26,"27,6",2,€11.23m,Aleksandr Khatskevich,46 Years
+714,Chertanovo Moscow,Russia,29,"22,3",0,€11.00m,Igor Osinjkin,54 Years
+715,Torpedo Moscow,Russia,24,"25,7",1,€10.25m,Sergey Ignashevich,40 Years
+716,FK Khimki,Russia,26,"25,3",2,€9.50m,Sergey Yuran,50 Years
+717,Spartak 2 Moscow,Russia,28,"21,9",6,€8.55m,Roman Pilipchuk,52 Years
+718,Enisey Krasnoyarsk,Russia,33,"26,0",2,€8.50m,Yuri Gazzaev,59 Years
+719,SKA Khabarovsk,Russia,26,"25,0",2,€7.90m,Aleksey Poddubskiy,47 Years
+720,Fakel Voronezh,Russia,29,"25,7",1,€7.83m,Vladimir Beschastnykh,46 Years
+721,Chaika Peschanokopskoe,Russia,29,"25,8",1,€7.75m,Magomed Adiev,42 Years
+722,FK Krasnodar 2,Russia,25,"21,3",0,€7.73m,Artem Kulikov,40 Years
+723,Neftekhimik Nizhnekamsk,Russia,27,"25,9",2,€7.50m,Yuri Utkulbaev,50 Years
+724,Baltika Kaliningrad,Russia,22,"26,2",3,€7.43m,Evgeni Kaleshin,41 Years
+725,Tom Tomsk,Russia,29,"25,1",0,€7.18m,Vasili Baskakov,57 Years
+726,FK Armavir,Russia,25,"26,3",4,€6.73m,Arsen Papikyan,48 Years
+727,Shinnik Yaroslavl,Russia,25,"26,0",0,€6.50m,Aleksandr Pobegalov,63 Years
+728,Tekstilshchik Ivanovo,Russia,25,"26,8",0,€5.33m,Sergey Pavlov,64 Years
+729,Avangard Kursk,Russia,23,"26,1",0,€4.58m,Igor Belyaev,44 Years
+730,Luch Vladivostok,Russia,22,"25,1",0,€3.20m,Valeri Petrakov,61 Years
+731,Mordovia Saransk,Russia,21,"24,5",0,€3.00m,Oleg Vasilenko,46 Years
+732,Celtic FC,Scotland,31,"25,7",21,€100.08m,Neil Lennon,48 Years
+733,Rangers FC,Scotland,27,"27,0",22,€62.80m,Steven Gerrard,39 Years
+734,Aberdeen FC,Scotland,23,"26,6",13,€13.90m,Derek McInnes,48 Years
+735,Heart of Midlothian FC,Scotland,29,"25,5",18,€13.73m,Daniel Stendel,46 Years
+736,Hibernian FC,Scotland,24,"27,6",11,€11.23m,Jack Ross,43 Years
+737,Motherwell FC,Scotland,24,"25,8",16,€10.63m,Steve Robinson,45 Years
+738,Kilmarnock FC,Scotland,22,"27,2",10,€7.93m,Alex Dyer,54 Years
+739,Ross County FC,Scotland,24,"27,7",8,€7.45m,Steven Ferguson,42 Years
+740,Livingston FC,Scotland,26,"26,9",11,€7.10m,Gary Holt,47 Years
+741,St. Johnstone FC,Scotland,23,"25,8",8,€6.88m,Tommy Wright,56 Years
+742,St. Mirren FC,Scotland,25,"26,7",15,€5.58m,Jim Goodwin,38 Years
+743,Hamilton Academical FC,Scotland,25,"24,6",13,€5.50m,Brian Rice,56 Years
+744,Red Star Belgrade,Serbia,27,"26,2",9,€56.80m,Dejan Stanković,41 Years
+745,FK Partizan Belgrade,Serbia,24,"26,4",6,€41.85m,Savo Milosevic,46 Years
+746,FK Cukaricki,Serbia,22,"24,0",5,€15.15m,Aleksandar Veselinović,49 Years
+747,FK Vojvodina Novi Sad,Serbia,26,"24,7",5,€12.20m,Nenad Lalatovic,42 Years
+748,FK Spartak Subotica,Serbia,29,"22,9",6,€9.15m,Vladimir Gacinovic,54 Years
+749,FK TSC Backa Topola,Serbia,21,"28,6",2,€8.40m,Zoltán Szabó,47 Years
+750,FK Napredak Krusevac,Serbia,31,"26,4",5,€8.30m,Dragan Ivanovic,50 Years
+751,FK Vozdovac,Serbia,26,"23,3",5,€8.00m,Jovan Damjanovic,37 Years
+752,FK Radnicki Nis,Serbia,25,"26,9",3,€7.38m,Radoslav Batak,42 Years
+753,FK Radnik Surdulica,Serbia,28,"26,1",4,€6.78m,Simo Krunic,51 Years
+754,FK Indjija,Serbia,26,"27,6",2,€6.48m,Aleksandar Janjic,51 Years
+755,FK Proleter Novi Sad,Serbia,22,"26,4",2,€6.00m,Branko Zigic,38 Years
+756,FK Mladost Lucani,Serbia,30,"26,3",7,€5.98m,Goran Stanic,47 Years
+757,FK Javor-Matis Ivanjica,Serbia,24,"24,5",2,€5.80m,Igor Bondzulic,39 Years
+758,FK Rad,Serbia,28,"25,1",3,€5.43m,Marko Micovic,45 Years
+759,FK Macva Sabac,Serbia,25,"26,5",1,€4.80m,Dragan Anicic,49 Years
+760,FK Kolubara Lazarevac,Serbia,27,"26,0",2,€3.93m,Zoran Milinkovic,51 Years
+761,OFK Backa,Serbia,28,"24,3",3,€3.53m,Dejan Radjenovic,44 Years
+762,Graficar Belgrad,Serbia,27,"21,3",5,€3.53m,Milija Zizic,41 Years
+763,FK Kabel Novi Sad,Serbia,23,"24,1",3,€3.20m,Zoran Vasiljevic,48 Years
+764,FK Dinamo Vranje,Serbia,34,"23,8",5,€3.03m,Dragan Antic,56 Years
+765,FK Metalac Gornji Milanovac,Serbia,23,"23,8",4,€2.80m,Aleksandar Stankovic,39 Years
+766,FK Radnicki Pirot,Serbia,25,"24,0",4,€2.75m,Dejan Celar,44 Years
+767,FK Radnicki 1923 Kragujevac,Serbia,23,"24,4",0,€2.70m,Darko Milisavljevic,45 Years
+768,FK Zlatibor Cajetina,Serbia,27,"23,0",3,€2.65m,Predrag Ristanovic,47 Years
+769,OFK Zarkovo,Serbia,25,"24,2",3,€2.53m,Milan Kuljic,44 Years
+770,FK Trayal Kruševac,Serbia,28,"24,7",3,€2.50m,Nenad Sakic,48 Years
+771,FK Buducnost Dobanovci,Serbia,23,"24,8",4,€2.33m,Dusan Kljajic,56 Years
+772,FK Novi Pazar,Serbia,23,"25,2",3,€2.10m,Kenan Kolasinac,59 Years
+773,FK Smederevo,Serbia,31,"23,1",5,€1.98m,Ognjen Koroman,41 Years
+774,FK Sindjelic Belgrad,Serbia,27,"22,6",5,€1.93m,Uros Kalinic,46 Years
+775,FK Zemun,Serbia,26,"23,0",4,€1.55m,Milan Ristic,38 Years
+776,Slovan Bratislava,Slovakia,28,"25,5",21,€15.30m,Jan Kozak,39 Years
+777,DAC Dunajska Streda,Slovakia,27,"22,1",16,€10.43m,Hélder Cristóvão,49 Years
+778,AS Trencin,Slovakia,30,"22,8",21,€5.25m,Norbert Hrncar,49 Years
+779,MFK Ruzomberok,Slovakia,30,"23,2",3,€5.18m,Jan Haspra,50 Years
+780,Spartak Trnava,Slovakia,24,"25,3",13,€4.88m,Ricardo Chéu,38 Years
+781,MFK Zemplin Michalovce,Slovakia,29,"22,9",14,€4.78m,Jozef Majoros,42 Years
+782,FC ViOn Zlate Moravce-Vrable,Slovakia,28,"25,2",4,€4.20m,Karol Prazenica,49 Years
+783,FC Nitra,Slovakia,29,"23,5",9,€3.88m,Anatoliy Demyanenko,61 Years
+784,MSK Zilina,Slovakia,18,"20,5",5,€3.78m,Pavol Stano,42 Years
+785,SKF Sered,Slovakia,26,"25,5",18,€3.70m,Peter Lerant,43 Years
+786,FK Pohronie,Slovakia,26,"24,7",10,€2.90m,Mikulas Radvanyi,51 Years
+787,FK Senica,Slovakia,21,"20,1",8,€2.18m,Jan Bires,49 Years
+788,NK Maribor,Slovenia,27,"27,6",8,€12.58m,Saša Gajser,46 Years
+789,NK Olimpija Ljubljana,Slovenia,27,"25,4",14,€10.33m,Safet Hadzic,51 Years
+790,NK Domzale,Slovenia,25,"26,4",8,€6.58m,Andrej Razdrh,43 Years
+791,NK Celje,Slovenia,26,"23,3",8,€6.10m,Dusan Kosic,48 Years
+792,NK Aluminij Kidricevo,Slovenia,23,"23,9",11,€5.48m,Slobodan Grubor,51 Years
+793,NS Mura,Slovenia,28,"23,8",10,€5.35m,Ante Simundza,48 Years
+794,NK Rudar Velenje,Slovenia,29,"25,3",13,€3.93m,Andrej Panadic,51 Years
+795,NK Triglav Kranj,Slovenia,24,"23,6",8,€3.65m,Vlado Smit,40 Years
+796,NK Tabor Sezana,Slovenia,29,"24,5",20,€3.13m,Mauro Camoranesi,43 Years
+797,NK Bravo,Slovenia,24,"23,8",7,€3.03m,Dejan Grabic,39 Years
+798,Real Madrid,Spain,26,"26,8",19,€1.08bn,Zinédine Zidane,47 Years
+799,FC Barcelona,Spain,22,"27,9",15,€1.06bn,Quique Setién,61 Years
+800,Atlético Madrid,Spain,23,"27,1",15,€870.50m,Diego Simeone,49 Years
+801,Valencia CF,Spain,25,"27,2",16,€524.50m,Albert Celades,44 Years
+802,Real Sociedad,Spain,22,"25,9",5,€390.00m,Imanol Alguacil,48 Years
+803,Sevilla FC,Spain,22,"27,7",12,€316.00m,Julen Lopetegui,53 Years
+804,Real Betis Balompié,Spain,24,"27,7",9,€291.50m,Rubi,50 Years
+805,Athletic Bilbao,Spain,25,"27,9",1,€256.00m,Gaizka Garitano,44 Years
+806,Villarreal CF,Spain,23,"28,6",6,€229.40m,Javier Calleja,41 Years
+807,Getafe CF,Spain,25,"28,3",15,€200.10m,Pepe Bordalás,56 Years
+808,Celta de Vigo,Spain,24,"26,3",10,€181.60m,Óscar García,46 Years
+809,RCD Espanyol Barcelona,Spain,26,"27,7",8,€163.20m,Abelardo,49 Years
+810,Deportivo Alavés,Spain,25,"27,2",5,€109.90m,Asier Garitano,50 Years
+811,Levante UD,Spain,23,"28,4",6,€103.80m,Paco López,52 Years
+812,CD Leganés,Spain,24,"27,1",10,€98.50m,Javier Aguirre,61 Years
+813,Real Valladolid CF,Spain,24,"27,0",5,€93.70m,Sergio,43 Years
+814,RCD Mallorca,Spain,28,"27,9",14,€75.90m,Vicente Moreno,45 Years
+815,CA Osasuna,Spain,25,"28,1",4,€71.60m,Jagoba Arrasate,41 Years
+816,SD Eibar,Spain,24,"30,0",11,€66.90m,José Luis Mendilibar,59 Years
+817,Granada CF,Spain,26,"27,1",11,€66.70m,Diego Martinez,39 Years
+818,Girona FC,Spain,27,"27,8",6,€43.40m,Josep Lluís Martí,44 Years
+819,Rayo Vallecano,Spain,25,"28,1",9,€37.80m,Paco Jémez,49 Years
+820,Deportivo de La Coruña,Spain,25,"27,5",9,€36.20m,Fernando Vázquez,65 Years
+821,UD Almería,Spain,25,"24,9",11,€35.20m,Guti,43 Years
+822,SD Huesca,Spain,24,"27,1",6,€33.10m,Míchel,44 Years
+823,Real Zaragoza,Spain,24,"27,0",8,€28.50m,Víctor Fernández,59 Years
+824,UD Las Palmas,Spain,26,"27,7",6,€27.30m,Pepe Mel,57 Years
+825,Cádiz CF,Spain,25,"28,1",8,€23.20m,Álvaro Cervera,54 Years
+826,Sporting Gijón,Spain,23,"27,6",6,€21.30m,Miroslav Djukic,54 Years
+827,Málaga CF,Spain,23,"26,9",11,€19.00m,Sergio Pellicer,46 Years
+828,Real Oviedo,Spain,23,"28,4",5,€15.80m,Cuco Ziganda,53 Years
+829,CD Tenerife,Spain,23,"27,0",5,€15.00m,Rubén Baraja,44 Years
+830,Albacete Balompié,Spain,24,"28,8",7,€15.00m,Lucas Alcaraz,53 Years
+831,CD Mirandés,Spain,22,"26,3",8,€14.00m,Andoni Iraola,37 Years
+832,Elche CF,Spain,21,"28,1",2,€13.60m,Pacheta,52 Years
+833,CD Lugo,Spain,27,"27,5",7,€13.60m,Curro Torres,43 Years
+834,Racing Santander,Spain,25,"28,6",5,€11.60m,José Luis Oltra,51 Years
+835,CD Numancia,Spain,24,"26,6",4,€11.60m,Luis Miguel Carrión,41 Years
+836,AD Alcorcón,Spain,25,"27,6",6,€11.40m,Fran Fernández,40 Years
+837,CF Fuenlabrada,Spain,24,"27,5",6,€10.70m,José Ramón Sandoval,51 Years
+838,Extremadura UD,Spain,23,"27,9",6,€10.25m,Manuel Mosquera,51 Years
+839,SD Ponferradina,Spain,24,"27,4",5,€10.00m,Bolo,46 Years
+840,Malmö FF,Sweden,24,"27,9",9,€19.30m,Jon Dahl Tomasson,43 Years
+841,Hammarby IF,Sweden,27,"26,0",11,€15.20m,Stefan Billborn,47 Years
+842,AIK,Sweden,26,"27,2",13,€12.90m,Rikard Norling,48 Years
+843,Djurgardens IF,Sweden,22,"26,7",9,€12.70m,Kim Bergstrand,51 Years
+844,IFK Norrköping,Sweden,24,"23,8",8,€11.40m,Jens Gustafsson,41 Years
+845,IFK Göteborg,Sweden,20,"24,3",5,€10.65m,Poya Asbaghi,34 Years
+846,BK Häcken,Sweden,27,"26,4",6,€10.44m,Andreas Alm,46 Years
+847,Helsingborgs IF,Sweden,24,"26,0",9,€10.38m,Olof Mellberg,42 Years
+848,IF Elfsborg,Sweden,27,"23,6",6,€9.15m,Jimmy Thelin,42 Years
+849,Örebro SK,Sweden,27,"25,1",8,€7.73m,Axel Kjäll,38 Years
+850,Östersunds FK,Sweden,29,"23,1",17,€7.65m,Ian Burchnall,37 Years
+851,Kalmar FF,Sweden,23,"24,9",5,€7.45m,Nanne Bergstrand,63 Years
+852,IK Sirius,Sweden,26,"26,1",6,€6.98m,Henrik Rydström,44 Years
+853,Falkenbergs FF,Sweden,25,"25,4",6,€4.23m,Hans Eklund,50 Years
+854,Mjällby AIF,Sweden,25,"24,1",6,€3.53m,Marcus Lantz,44 Years
+855,Varbergs BoIS,Sweden,29,"23,5",7,€2.40m,Joakim Persson,45 Years
+856,Örgryte IS,Sweden,26,"25,6",3,€4.35m,Keith Millen,53 Years
+857,Athletic Eskilstuna,Sweden,23,"23,2",8,€4.15m,Özcan Melkemichel,52 Years
+858,Trelleborgs FF,Sweden,23,"25,3",5,€3.73m,Kristian Haynes,39 Years
+859,Halmstads BK,Sweden,27,"24,5",3,€3.40m,Magnus Haglund,46 Years
+860,GIF Sundsvall,Sweden,19,"25,3",4,€3.25m,Henrik Ahnstrand,40 Years
+861,Östers IF,Sweden,19,"26,9",1,€3.10m,Denis Velic,37 Years
+862,Jönköpings Södra IF,Sweden,22,"25,5",3,€2.55m,Andreas Brännström,43 Years
+863,GAIS Göteborg,Sweden,25,"24,8",3,€2.55m,Stefan Jacobsson,54 Years
+864,IK Brage,Sweden,25,"25,0",6,€2.48m,Klebér Saarenpää,44 Years
+865,Degerfors IF,Sweden,22,"24,4",2,€2.48m,Tobias Solberg,38 Years
+866,Norrby IF,Sweden,25,"24,3",4,€2.13m,Mak Lind,32 Years
+867,Ljungskile SK,Sweden,24,"25,5",1,€1.55m,Jörgen Walemark,48 Years
+868,Dalkurd FF,Sweden,26,"23,0",9,€1.20m,Paul Olausson,46 Years
+869,Akropolis IF,Sweden,31,"25,0",1,€1.20m,Giannis Christopoulos,47 Years
+870,Umeå FC,Sweden,24,"24,9",9,€1.15m,Brian Clarhaut,33 Years
+871,Västerås SK,Sweden,25,"25,7",3,€950k,Thomas Askebrand,52 Years
+872,BSC Young Boys,Switzerland,26,"25,5",10,€66.80m,Gerardo Seoane,41 Years
+873,FC Basel 1893,Switzerland,27,"24,3",12,€51.65m,Marcel Koller,59 Years
+874,FC Zürich,Switzerland,27,"25,2",15,€29.90m,Ludovic Magnin,40 Years
+875,FC Luzern,Switzerland,26,"24,6",12,€26.45m,Fabio Celestini,44 Years
+876,FC St. Gallen 1879,Switzerland,30,"23,6",14,€22.10m,Peter Zeidler,57 Years
+877,FC Thun,Switzerland,30,"25,2",6,€20.60m,Marc Schneider,39 Years
+878,FC Sion,Switzerland,28,"22,5",19,€18.60m,Ricardo Dionisio,37 Years
+879,FC Lugano,Switzerland,27,"26,4",13,€17.95m,Maurizio Jacobacci,57 Years
+880,Servette FC,Switzerland,27,"26,0",14,€16.60m,Alain Geiger,59 Years
+881,Neuchâtel Xamax FCS,Switzerland,26,"27,2",8,€9.93m,Joël Magnin,48 Years
+882,FC Lausanne-Sport,Switzerland,24,"26,1",9,€11.98m,Giorgio Contini,46 Years
+883,Grasshopper Club Zurich,Switzerland,28,"23,3",11,€9.93m,Goran Djuricin,45 Years
+884,FC Wil 1900,Switzerland,26,"23,1",7,€7.65m,Ciriaco Sforza,50 Years
+885,FC Winterthur,Switzerland,26,"24,6",9,€7.50m,Ralf Loose,57 Years
+886,FC Chiasso,Switzerland,29,"23,1",13,€6.90m,Alessandro Lupi,49 Years
+887,FC Schaffhausen,Switzerland,26,"24,3",15,€6.88m,Murat Yakin,45 Years
+888,FC Aarau,Switzerland,25,"25,0",10,€6.60m,Patrick Rahmen,51 Years
+889,FC Vaduz,Switzerland,24,"25,2",16,€5.85m,Mario Frick,45 Years
+890,SC Kriens,Switzerland,25,"25,2",5,€5.23m,Bruno Berner,42 Years
+891,FC Stade-Lausanne-Ouchy,Switzerland,25,"27,2",14,€4.08m,Andrea Binotto,49 Years
+892,Galatasaray SK,Turkey,28,"27,8",17,€103.10m,Fatih Terim,66 Years
+893,Trabzonspor,Turkey,28,"25,5",12,€89.35m,Hüseyin Cimsir,40 Years
+894,Fenerbahce SK,Turkey,29,"27,3",12,€81.45m,Zeki Murat Göle,40 Years
+895,Besiktas JK,Turkey,26,"27,4",14,€71.58m,Sergen Yalcin,47 Years
+896,Istanbul Basaksehir FK,Turkey,24,"29,8",15,€59.75m,Okan Buruk,46 Years
+897,Sivasspor,Turkey,27,"28,9",13,€32.53m,Riza Calimbay,57 Years
+898,Kasimpasa,Turkey,31,"26,2",17,€30.80m,Fuat Capa,51 Years
+899,Alanyaspor,Turkey,26,"29,4",14,€25.13m,Erol Bulut,45 Years
+900,Gaziantep FK,Turkey,27,"28,3",14,€23.88m,Marius Sumudica,49 Years
+901,Caykur Rizespor,Turkey,29,"25,8",16,€23.03m,Reinhold Mielke,82 Years
+902,Yeni Malatyaspor,Turkey,29,"27,7",15,€21.25m,Hikmet Karaman,60 Years
+903,Konyaspor,Turkey,28,"27,6",15,€20.98m,Bülent Korkmaz,51 Years
+904,Antalyaspor,Turkey,29,"28,7",14,€20.15m,Tamer Tuna,43 Years
+905,Kayserispor,Turkey,34,"26,4",15,€18.75m,Robert Prosinecki,51 Years
+906,Denizlispor,Turkey,27,"27,4",13,€18.55m,Bülent Uygun,48 Years
+907,Göztepe,Turkey,29,"27,9",13,€18.03m,Ilhan Palut,43 Years
+908,Genclerbirligi Ankara,Turkey,31,"27,5",16,€16.23m,Hamza Hamzaoglu,49 Years
+909,MKE Ankaragücü,Turkey,32,"27,3",15,€13.00m,Mustafa Resit Akcay,61 Years
+910,Hatayspor,Turkey,25,"28,0",8,€9.50m,Mehmet Altiparmak,50 Years
+911,Bursaspor,Turkey,28,"26,6",6,€8.85m,Ibrahim Üzülmez,46 Years
+912,Büyüksehir Belediye Erzurumspor,Turkey,27,"28,5",8,€8.53m,Mehmet Özdilek,54 Years
+913,Fatih Karagümrük,Turkey,30,"28,1",12,€8.00m,Ömer Erdogan,42 Years
+914,Altinordu FK,Turkey,24,"24,1",4,€7.83m,Hüseyin Eroglu,47 Years
+915,Adana Demirspor,Turkey,33,"27,2",14,€7.60m,Cüneyt Dumlupinar,39 Years
+916,Akhisarspor,Turkey,26,"29,3",8,€5.78m,Yilmaz Vural,67 Years
+917,Ümraniyespor,Turkey,26,"26,1",10,€5.73m,Sait Karafirtinalar,51 Years
+918,Adanaspor,Turkey,36,"24,4",15,€5.13m,Coskun Demirbakan,65 Years
+919,Istanbulspor,Turkey,28,"25,1",6,€5.08m,Fatih Tekke,42 Years
+920,Altay SK,Turkey,30,"28,9",10,€4.35m,Yalcin Kosukavak,47 Years
+921,Osmanlispor FK,Turkey,28,"22,4",4,€4.18m,Ismet Tasdemir,46 Years
+922,Boluspor,Turkey,30,"25,7",9,€4.03m,Reinhold Mielke,82 Years
+923,Menemen Spor,Turkey,27,"25,6",9,€3.50m,Cenk Laleci,38 Years
+924,Keciörengücü,Turkey,22,"27,4",7,€3.33m,Serkan Özbalta,41 Years
+925,Balikesirspor,Turkey,27,"24,8",8,€3.13m,Yusuf Simsek,44 Years
+926,Giresunspor,Turkey,28,"29,0",7,€2.88m,Hakan Kutlu,48 Years
+927,Eskisehirspor,Turkey,23,"23,4",1,€2.40m,Mustafa Özer,50 Years
+928,Shakhtar Donetsk,Ukraine,31,"25,5",14,€150.60m,Luís Castro,58 Years
+929,Dynamo Kyiv,Ukraine,26,"24,8",9,€89.85m,Oleksiy Mykhaylychenko,57 Years
+930,Zorya Lugansk,Ukraine,24,"25,5",6,€17.60m,Viktor Skripnik,50 Years
+931,FK Oleksandriya,Ukraine,28,"27,0",3,€14.05m,Volodymyr Sharan,48 Years
+932,SK Dnipro-1,Ukraine,23,"26,7",3,€11.90m,Dmytro Mykhaylenko,46 Years
+933,Desna Chernigiv,Ukraine,22,"28,5",1,€11.40m,Oleksandr Ryabokon,56 Years
+934,FK Mariupol,Ukraine,26,"24,6",1,€10.95m,Oleksandr Babych,41 Years
+935,Vorskla Poltava,Ukraine,29,"25,7",8,€10.43m,Yuriy Maksymov,51 Years
+936,Olimpik Donetsk,Ukraine,26,"24,9",6,€8.85m,Igor Klymovskyi,47 Years
+937,Kolos Kovalivka,Ukraine,29,"26,7",2,€7.90m,Ruslan Kostyshin,43 Years
+938,PFK Lviv,Ukraine,25,"24,6",9,€6.43m,Eghishe Melikyan,40 Years
+939,Karpaty Lviv,Ukraine,26,"22,8",8,€6.05m,Roman Sanzhar,40 Years
+940,Rukh Lviv,Ukraine,27,"25,3",3,€4.63m,Yurii Bakalov,54 Years
+941,Ingulets Petrove,Ukraine,25,"28,3",2,€4.18m,Serhii Lavrynenko,45 Years
+942,Obolon-Brovar Kyiv,Ukraine,30,"26,3",1,€3.55m,Oleg Mazurenko,42 Years
+943,Metalist 1925 Kharkiv,Ukraine,27,"24,5",3,€3.45m,Andrey Demchenko,43 Years
+944,Volyn Lutsk,Ukraine,20,"27,0",1,€3.43m,Andrii Tlumak,41 Years
+945,Chornomorets Odessa,Ukraine,22,"24,7",0,€2.98m,Ostap Markevych,42 Years
+946,Avangard Kramatorsk,Ukraine,21,"26,1",1,€2.80m,Oleksandr Kosevych,54 Years
+947,FK Minaj,Ukraine,28,"26,1",3,€2.78m,Vasyl Kobin,34 Years
+948,Agrobiznes Volochysk,Ukraine,23,"24,7",1,€2.48m,Oleksandr Chyzhevskyi,48 Years
+949,Girnyk-Sport Gorishni Plavni,Ukraine,24,"26,9",0,€1.93m,Igor Zhabchenko,51 Years
+950,MFK Metalurg Zaporizhya,Ukraine,25,"24,1",0,€1.63m,Viktor Kanevskyi,-
+951,Balkany Zorya,Ukraine,23,"25,9",3,€1.60m,Andrii Parkhomenko,48 Years
+952,MFK Mykolaiv,Ukraine,16,"26,1",0,€1.53m,Illya Blyznyuk,46 Years
+953,PFK Prykarpattya Ivano-Frankivsk,Ukraine,20,"25,3",0,€1.23m,Volodymyr Kovaliuk,48 Years
+954,Kremin Kremenchuk,Ukraine,19,"23,7",0,€400k,Serhii Svystun,58 Years
