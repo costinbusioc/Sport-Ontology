@@ -4,7 +4,7 @@ from rdflib import Graph
 from rdflib import URIRef, Namespace, Literal
 from rdflib.namespace import RDF, FOAF
 
-input_table = 'tennis_players.csv'
+input_table = '1973-2015_players.csv'
 input_ontology = 'ontology.owl'
 output_ontology = 'ontology.owl'
 
