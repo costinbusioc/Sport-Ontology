@@ -28,7 +28,8 @@ champions = []
 start_dates = []
 urls = []
 
-for year in range(2005, 2015):
+for year in range(1975, 2005):
+    print(year)
     current_url = root_url + f'year={year}&tournamentType=atpg'
     page = requests.get(current_url)
     soup = BeautifulSoup(page.content, "lxml")
@@ -76,6 +77,6 @@ for year in range(2005, 2015):
         urls.append(url)
         years.append(year)
 
-cols_name = ['Tournament', 'City', 'Country', 'Start Date', 'Prize', 'Champion', 'Surface', 'URL', 'Year']
-cols = [names, cities, countries, start_dates, prizes, champions, surfaces, urls, years]
-write_csv('new_tennis_tournaments.csv', cols_name, cols)
+    cols_name = ['Tournament', 'City', 'Country', 'Start Date', 'Prize', 'Champion', 'Surface', 'URL', 'Year']
+    cols = [names, cities, countries, start_dates, prizes, champions, surfaces, urls, years]
+    write_csv('1975_2005_tennis_tournaments.csv', cols_name, cols)
