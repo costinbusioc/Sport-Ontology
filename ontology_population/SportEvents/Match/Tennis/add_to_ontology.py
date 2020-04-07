@@ -5,7 +5,8 @@ from rdflib import Graph
 from rdflib import URIRef, Namespace, Literal
 from rdflib.namespace import RDF, FOAF
 
-input_tables = ['tennis_matches.csv', 'tennis_matches1.csv', 'tennis_matches2.csv']
+#input_tables = ['tennis_matches.csv', 'tennis_matches1.csv', 'tennis_matches2.csv']
+input_tables = ['1975-1983_tennis_matches.csv', '1984-2005_tennis_matches.csv']
 input_ontology = 'ontology.owl'
 output_ontology = 'ontology.owl'
 
