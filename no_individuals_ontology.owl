@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.org/sport/ontology/"
+     xml:base="http://purl.org/sport/ontology/"
+     xmlns:ns1="http://dbpedia.org/ontology/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:vann="http://purl.org/vocab/vann/">
+    <owl:Ontology rdf:about="http://purl.org/sport/ontology/">
+        <vann:preferredNamespacePrefix>sport</vann:preferredNamespacePrefix>
+        <vann:preferredNamespaceUri>http://purl.org/sport/ontology/</vann:preferredNamespaceUri>
+        <rdfs:comment>An ontology modelling sports competitions and the results.</rdfs:comment>
+        <rdfs:label>Sports ontology</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.tobion.de/sportservice/"/>
+        <owl:versionInfo>1.0</owl:versionInfo>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://dbpedia.org/ontology/champion -->
+
+    <owl:AnnotationProperty rdf:about="http://dbpedia.org/ontology/champion">
+        <rdfs:range rdf:resource="http://purl.org/sport/ontology/Team"/>
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Tournament"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://dbpedia.org/ontology/endDateTime -->
+
+    <owl:AnnotationProperty rdf:about="http://dbpedia.org/ontology/endDateTime">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsEvent"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://dbpedia.org/ontology/informationName -->
+
+    <owl:AnnotationProperty rdf:about="http://dbpedia.org/ontology/informationName">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://dbpedia.org/ontology/manager -->
+
+    <owl:AnnotationProperty rdf:about="http://dbpedia.org/ontology/manager">
+        <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://dbpedia.org/ontology/playerInTeam -->
+
+    <owl:AnnotationProperty rdf:about="http://dbpedia.org/ontology/playerInTeam">
+        <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://dbpedia.org/ontology/startDateTime -->
+
+    <owl:AnnotationProperty rdf:about="http://dbpedia.org/ontology/startDateTime">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsEvent"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.org/vocab/vann/preferredNamespacePrefix -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/vocab/vann/preferredNamespacePrefix"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/preferredNamespaceUri -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/vocab/vann/preferredNamespaceUri"/>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#maxCardinality -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2002/07/owl#maxCardinality"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/name -->
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/name">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasAwayTeam -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasAwayTeam">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/sport/ontology/hasParticipants"/>
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Match"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasCaptain -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasCaptain">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/Athlete"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasHomeTeam -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasHomeTeam">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/sport/ontology/hasParticipants"/>
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Match"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasLocation -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasLocation">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsEvent"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasParticipants -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasParticipants">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsEvent"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasSportType -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasSportType">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsEvent"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/Sport"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasTournament -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasTournament">
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Match"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/Tournament"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasAwayScore -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasAwayScore">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasGender -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasGender">
+        <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasHomeScore -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasHomeScore">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasMatchName -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasMatchName">
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Match"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasPrize -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasPrize">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsEvent"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasSportName -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasSportName">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Sport"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasSurface -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasSurface">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsEvent"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasTeamName -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasTeamName">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasTournamentName -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasTournamentName">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Tournament"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://dbpedia.org/ontology/Athlete -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Athlete">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/BasketballPlayer -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/BasketballPlayer">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Athlete"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/City -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/City">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Country -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Country">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Organisation -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Organisation"/>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Place -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Place"/>
+    
+
+
+    <!-- http://dbpedia.org/ontology/SoccerPlayer -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/SoccerPlayer">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Athlete"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Sport -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Sport"/>
+    
+
+
+    <!-- http://dbpedia.org/ontology/SportsEvent -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/SportsEvent"/>
+    
+
+
+    <!-- http://dbpedia.org/ontology/SportsTeam -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/SportsTeam">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Stadium -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Stadium">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/TennisPlayer -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/TennisPlayer">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Athlete"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Tournament -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Tournament">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/SportsEvent"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/sport/ontology/LeagueTournament -->
+
+    <owl:Class rdf:about="http://purl.org/sport/ontology/LeagueTournament">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Tournament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/sport/ontology/Match -->
+
+    <owl:Class rdf:about="http://purl.org/sport/ontology/Match">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://dbpedia.org/ontology/SportsEvent"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/sport/ontology/hasParticipants"/>
+                        <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</owl:qualifiedCardinality>
+                        <owl:onClass rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/SportsEvent"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/sport/ontology/MultiPlayer -->
+
+    <owl:Class rdf:about="http://purl.org/sport/ontology/MultiPlayer">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/sport/ontology/PyramidTournament -->
+
+    <owl:Class rdf:about="http://purl.org/sport/ontology/PyramidTournament">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Tournament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/sport/ontology/SinglePlayer -->
+
+    <owl:Class rdf:about="http://purl.org/sport/ontology/SinglePlayer">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+    </owl:Class>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Person -->
+
+    <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:Description>
+        <owl:maxCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</owl:maxCardinality>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
