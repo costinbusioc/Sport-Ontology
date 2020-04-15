@@ -5,8 +5,7 @@ from rdflib import Graph
 from rdflib import URIRef, Namespace, Literal
 from rdflib.namespace import RDF, FOAF
 
-#input_tables = ['tennis_matches.csv', 'tennis_matches1.csv', 'tennis_matches2.csv']
-input_tables = ['1975-1983_tennis_matches.csv', '1984-2005_tennis_matches.csv']
+input_tables = ['1975-1983_tennis_matches.csv', '1984-2004_tennis_matches.csv', '2005-2013_tennis_matches.csv', '2004_tennis_matches.csv', '2015-2019_tennis_matches.csv']
 input_ontology = 'ontology.owl'
 output_ontology = 'ontology.owl'
 
@@ -41,14 +40,14 @@ for input_table in input_tables:
         if city == 'Washington':
             city = 'Washington D.C.'
 
-        match_URI = URIRef(ontology_root + home_player.replace(' ' , '') + '-' + away_player.replace(' ', '') + tournament.replace(' ', '') + str(cal_year))
-        home_URI = URIRef(ontology_root + home_player.replace(' ', '') + 'SinglePlayerTeam')
-        away_URI = URIRef(ontology_root + away_player.replace(' ', '') + 'SinglePlayerTeam')
-        tournament_URI = URIRef(ontology_root + tournament.replace(' ' , '') + str(cal_year))
+        match_URI = URIRef(ontology_root + home_player.replace(' ' , '_') + '-' + away_player.replace(' ', '_') + tournament.replace(' ', '_') + str(cal_year))
+        home_URI = URIRef(ontology_root + home_player.replace(' ', '_') + 'SinglePlayerTeam')
+        away_URI = URIRef(ontology_root + away_player.replace(' ', '_') + 'SinglePlayerTeam')
+        tournament_URI = URIRef(ontology_root + tournament.replace(' ' , '_') + str(cal_year))
         if country != 'Empty':
-            country_URI = URIRef(ontology_root + country.replace(' ', ''))
+            country_URI = URIRef(ontology_root + country.replace(' ', '_'))
         try:
-            city_URI = URIRef(ontology_root + city.replace(' ', ''))
+            city_URI = URIRef(ontology_root + city.replace(' ', '_'))
         except:
             continue
 
