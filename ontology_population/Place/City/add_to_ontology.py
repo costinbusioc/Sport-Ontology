@@ -6,7 +6,7 @@ from rdflib.namespace import RDF, FOAF
 
 input_table = 'cities.csv'
 input_ontology = 'ontology.owl'
-output_ontology = 'new_ontology.owl'
+output_ontology = 'ontology.owl'
 
 ontology_root = "http://purl.org/sport/ontology/"
 dbpedia_root = "http://dbpedia.org/ontology/"
