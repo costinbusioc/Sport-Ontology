@@ -142,6 +142,15 @@
     
 
 
+    <!-- http://purl.org/sport/ontology/hasClubLocation -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasClubLocation">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://purl.org/sport/ontology/hasHomeTeam -->
 
     <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasHomeTeam">
@@ -161,6 +170,15 @@
     
 
 
+    <!-- http://purl.org/sport/ontology/hasNationality -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasNationality">
+        <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/Country"/>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://purl.org/sport/ontology/hasParticipants -->
 
     <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasParticipants">
@@ -170,11 +188,38 @@
     
 
 
+    <!-- http://purl.org/sport/ontology/hasPerson -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasPerson">
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Transfer"/>
+        <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://purl.org/sport/ontology/hasSportType -->
 
     <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasSportType">
         <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsEvent"/>
         <rdfs:range rdf:resource="http://dbpedia.org/ontology/Sport"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasStageWinner -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasStageWinner">
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Match"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasTeam -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/sport/ontology/hasTeam">
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Transfer"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
     </owl:ObjectProperty>
     
 
@@ -205,6 +250,42 @@
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
         <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasBirthdate -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasBirthdate">
+        <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasCapacity -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasCapacity">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Stadium"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasDetails -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasDetails">
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Transfer"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasEndDate -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasEndDate">
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Transfer"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
     </owl:DatatypeProperty>
     
 
@@ -255,6 +336,24 @@
     
 
 
+    <!-- http://purl.org/sport/ontology/hasStage -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasStage">
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Match"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/sport/ontology/hasStartDate -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasStartDate">
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Transfer"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- http://purl.org/sport/ontology/hasSurface -->
 
     <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasSurface">
@@ -282,6 +381,15 @@
     
 
 
+    <!-- http://purl.org/sport/ontology/playerPosition -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/playerPosition">
+        <rdfs:domain rdf:resource="http://dbpedia.org/ontology/SoccerPlayer"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -297,14 +405,6 @@
 
     <owl:Class rdf:about="http://dbpedia.org/ontology/Athlete">
         <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    </owl:Class>
-    
-
-
-    <!-- http://dbpedia.org/ontology/BasketballPlayer -->
-
-    <owl:Class rdf:about="http://dbpedia.org/ontology/BasketballPlayer">
-        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Athlete"/>
     </owl:Class>
     
 
@@ -397,6 +497,14 @@
     
 
 
+    <!-- http://purl.org/sport/ontology/Manager -->
+
+    <owl:Class rdf:about="http://purl.org/sport/ontology/Manager">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:Class>
+    
+
+
     <!-- http://purl.org/sport/ontology/Match -->
 
     <owl:Class rdf:about="http://purl.org/sport/ontology/Match">
@@ -441,9 +549,42 @@
     
 
 
+    <!-- http://purl.org/sport/ontology/Transfer -->
+
+    <owl:Class rdf:about="http://purl.org/sport/ontology/Transfer"/>
+    
+
+
     <!-- http://xmlns.com/foaf/0.1/Person -->
 
     <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Person"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/sport/ontology/Football -->
+
+    <owl:NamedIndividual rdf:about="http://purl.org/sport/ontology/Football">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Sport"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.org/sport/ontology/Tennis -->
+
+    <owl:NamedIndividual rdf:about="http://purl.org/sport/ontology/Tennis">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Sport"/>
+    </owl:NamedIndividual>
     <rdf:Description>
         <owl:maxCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</owl:maxCardinality>
     </rdf:Description>
