@@ -47,4 +47,4 @@ Go to the apache-jena-fuseki directory content and run (ontology_name is whateve
 ./fuseki-server --loc=TDB_DIRECTORY_PATH \ontology_name
 ```
 
-**Step6**: Go on localhost:3030 on any browser and enjoy your ontology.
+**Step6**: Go to localhost:3030 on any browser and enjoy your ontology.
