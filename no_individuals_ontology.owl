@@ -272,6 +272,15 @@
     
 
 
+    <!-- http://purl.org/sport/ontology/hasDate -->
+
+    <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasDate">
+        <rdfs:domain rdf:resource="http://purl.org/sport/ontology/Match"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- http://purl.org/sport/ontology/hasDetails -->
 
     <owl:DatatypeProperty rdf:about="http://purl.org/sport/ontology/hasDetails">
