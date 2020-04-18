@@ -1,5 +1,9 @@
 # Sports-Ontology
 
+### Ontology classes structure
+
+[Classes](../master/visualize/sports_ontology.png)
+
 ### System requirements
 
 Python 3.7+, Apache-jena-fuseki (see installatation steps below)
