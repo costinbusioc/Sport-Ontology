@@ -2,7 +2,7 @@
 
 ### System requirements
 
-Python 3.7+
+Python 3.7+, Apache-jena-fuseki (see installatation steps below)
 
 On Ubuntu 18.04 this means:
 ```shell
