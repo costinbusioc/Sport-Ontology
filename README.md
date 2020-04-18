@@ -2,7 +2,8 @@
 
 ### Ontology classes structure
 
-[Classes](../master/visualize/sports_ontology.png)
+![Classes](../master/visualize/sports_ontology.png)
+The diagram was built using drawio. The file can be found under the /visualize directory, feel free to use it.
 
 ### System requirements
 
