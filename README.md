@@ -1,8 +1,16 @@
 # Sports-Ontology
 
+### Ontology classes structure
+
+The diagram was built using drawio. The file can be found under the /visualize directory, feel free to use it.
+
+
+![Classes](../master/visualize/sports_ontology.png)
+
+
 ### System requirements
 
-Python 3.7+
+Python 3.7+, Apache-jena-fuseki (see installatation steps below)
 
 On Ubuntu 18.04 this means:
 ```shell
