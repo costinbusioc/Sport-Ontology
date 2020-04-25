@@ -14,7 +14,7 @@ sys.path.append('../../../helpers')
 from helpers import write_csv
 
 root_url = "https://www.atptour.com/"
-input_tables = ["tennis_tournaments.csv", "new_tennis_tournaments.csv"]
+input_tables = ["1975_2005_tennis_tournaments.csv", "tennis_tournaments.csv", "new_tennis_tournaments.csv"]
 
 paranthesis = re.compile(r'\([^)]*\)')
 
@@ -37,7 +37,7 @@ for input_table in input_tables:
         country = row['Country']
         results_url = row['URL']
 
-        if year < 2014:
+        if year > 2004 or year < 1984:
             continue
 
         if year == 2014 and tournament == 'Memphis':
@@ -54,7 +54,12 @@ for input_table in input_tables:
         print(year)
 
         table = soup.find('table', class_='day-table')
-        sections = table.find_all('tbody')
+        try:
+            sections = table.find_all('tbody')
+        except:
+            print('ISSUE')
+            continue
+
         for i, section in enumerate(sections):
             matches_section = section.find_all('tr')
             for j, match_section in enumerate(matches_section):
@@ -102,7 +107,7 @@ for input_table in input_tables:
                 cities.append(city)
                 countries.append(country)
 
-cols_name = ['Home', 'Away', 'Home Score', 'Away Score', 'Tournament', 'Year', 'City', 'Country']
-cols = [home_names, away_names, home_scores, away_scores, tournaments, years, cities, countries]
-write_csv('tennis_matches.csv', cols_name, cols)
+        cols_name = ['Home', 'Away', 'Home Score', 'Away Score', 'Tournament', 'Year', 'City', 'Country']
+        cols = [home_names, away_names, home_scores, away_scores, tournaments, years, cities, countries]
+        write_csv('1984-2005_tennis_matches.csv', cols_name, cols)
 

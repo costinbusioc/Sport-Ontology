@@ -21,7 +21,7 @@ g.parse(input_ontology, format="xml")
 df = pd.read_csv(input_table)
 for idx, row in df.iterrows():
     country_name = row['Country']
-    country_URI = URIRef(ontology_root + country_name.replace(' ', ''))
+    country_URI = URIRef(ontology_root + country_name.replace(' ', '_'))
     
     g.add((country_URI, RDF.type, dbpedia.Country))
     g.add((country_URI, dbpedia.informationName, Literal(country_name)))
