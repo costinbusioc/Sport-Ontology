@@ -78,7 +78,8 @@ for input_table in input_table_list:
 			manager_job_name = manager_name.replace(' ','_') + \
 				":" + club.replace(' ','_') + ":" + url_begin + ":" + url_end
 			manager_job_URI = URIRef(ontology_root + manager_job_name)
-			manager_URI = URIRef(ontology_root + manager_name.replace(' ','_'))
+			manager_name_for_URI = manager_name.replace(' ','_') + "_manager"
+			manager_URI = URIRef(ontology_root + manager_name_for_URI)
 			club_URI = URIRef(ontology_root + club.replace(' ','_'))
 			country_URI = URIRef(ontology_root + country.replace(' ','_'))
 
