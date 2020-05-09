@@ -1,0 +1,99 @@
+{% extends "base-site.html" %}
+
+{% block title %} Soccer table {% endblock %}
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+<div class="row">
+  <div class="col-md-8">
+    <div class="card">
+      <div class="card-body">
+          <form method="post" action="">
+          <div class="row">
+            <div class="col-md-5 pr-md-1">
+                <div class="form-group">
+                    <label>Insert Soccer Team</label>
+                    <input name="team" type="text" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label>Insert Tournament</label>
+                    <input name="tournament" type="text" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label>Insert Season</label>
+                    <input name="season" type="text" class="form-control">
+                </div>
+                <input type="submit" class="btn btn-fill btn-primary" value="Run"></input>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card ">
+    <div class="card-header">
+        {% if team and tournament and season %}
+            <h5 class="card-category">{{ team }} / {{ tournament }} / {{ season }} - Results</h5>
+        {% else %}
+            <h4 class="card-title">Soccer Team / Tournament / Season - Results</h4>
+        {% endif %}
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table tablesorter " id="">
+                <thead class=" text-primary">
+                <tr>
+                    <th class="text-center">
+                        Home Team
+                    </th>
+                    <th class="text-center">
+                        Home Score
+                    </th>
+                    <th class="text-center">
+                        Away Score
+                    </th>
+                    <th class="text-center">
+                        Away Team
+                    </th>
+                </tr>
+                </thead>
+                <tbody id="team_results">
+                <script language="javascript" type="text/javascript">
+                    var home_teams = {{ home_teams | tojson }};
+                    var away_teams = {{ away_teams | tojson }};
+                    var home_scores = {{ home_scores | tojson }};
+                    var away_scores = {{ away_scores | tojson }};
+
+                    if (home_teams.length != 0) {
+                        for (var i = 0; i < home_teams.length; i++) {
+                            document.write("<tr>");
+                            document.write('<td class="text-center">' + home_teams[i] + "</td>");
+                            document.write('<td class="text-center">' + home_scores[i] + "</td>");
+                            document.write('<td class="text-center">' + away_scores[i] + "</td>");
+                            document.write('<td class="text-center">' + away_teams[i] + "</td>");
+                            document.write("</tr>");
+                        }
+                    } else {
+                        document.write("<tr>");
+                        for (var j = 0; j < 4; j++) {
+                            document.write('<td class="text-center">' + "-" + "</td>");
+                        }
+                        document.write("</tr>");
+                    }
+                </script>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}

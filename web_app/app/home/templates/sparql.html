@@ -1,0 +1,75 @@
+{% extends "base-site.html" %}
+
+{% block title %} SPARQL {% endblock %}
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+<div class="row">
+  <div class="col-md-8">
+    <div class="card">
+      <div class="card-header">
+        <h5 class="title">Execute SPARQL</h5>
+      </div>
+      <div class="card-body">
+          <form method="post" action="">
+          <div class="row">
+            <div class="col-md-8">
+              <div class="form-group">
+                  <textarea name="query" rows="30" cols="150" class="form-control" placeholder="Text your QUERY"></textarea>
+                  <input type="submit" class="btn btn-fill btn-primary" value="Run"></input>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card ">
+    <div class="card-header">
+      <h4 class="card-title">Results</h4>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table tablesorter " id="">
+              <script language="javascript" type="text/javascript">
+                  var dictResults = {{data | tojson}};
+                  var keys = Object.keys(dictResults);
+                  
+                  if (keys.length != 0) {
+                    var some;
+
+                    document.write('<thead class=" text-primary">');
+                    document.write("<tr>");
+                    for (let key in keys) {
+                      document.write('<th class="text-center">' + keys[key] + "</th>");
+                      some = keys[key];
+                    }
+                    document.write("</tr>");
+                    document.write("</thead>");
+                    document.write('<tbody id="team_results">');
+
+                    for (var i = 0; i < dictResults[some].length; i++) {
+                      document.write("<tr>");
+                      for (let key in keys) {
+                        document.write('<td class="text-center">' + dictResults[keys[key]][i] + "</td>");
+                      }
+                      document.write("</tr>");
+                    }
+
+                    document.write("</tbody>");
+                  }
+              </script>
+            </table>
+        </div>
+    </div>
+</div>
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}
