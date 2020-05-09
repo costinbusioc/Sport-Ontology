@@ -26,6 +26,8 @@ apt-get install -qq build-essential virtualenv python3.7 python3.7-dev
 
 ### Python dependencies
 
+The requirements.txt and python .venv are shared between the web app and the ontology population.
+
 ```shell
 virtualenv -p python3.7 .venv
 .venv/bin/pip install -r requirements.txt
@@ -83,7 +85,15 @@ A small web app was created in order to have a fuseki endpoint - backend - front
 
 ### Running the app
 
-TODO
+The requirements.txt and python .venv are shared between the web app and the ontology population.
+
+```shell
+cd web_app
+export FLASK_APP=run.py
+flask run --host=0.0.0.0 --port=5000
+```
+Access the dashboard in browser: http://127.0.0.1:5000/
+
 
 ### App functionalities
 
