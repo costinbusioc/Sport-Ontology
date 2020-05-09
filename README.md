@@ -113,6 +113,7 @@ The app acts as a dashboard with a sidebar providing actions for:
 ![Soccer Table](../master/visualize/web_app/soccer-table.png)
 ![Soccer Plot](../master/visualize/web_app/soccer-plot.png)
 ![Soccer Bar](../master/visualize/web_app/soccer-bar.png)
+![SPARQL](../master/visualize/web_app/sparql.png)
 
 
 
