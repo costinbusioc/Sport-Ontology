@@ -1,0 +1,91 @@
+{% extends "base-site.html" %}
+
+{% block title %} Tennis table {% endblock %}
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+<div class="row">
+  <div class="col-md-8">
+    <div class="card">
+      <div class="card-body">
+        <form method="post" action="">
+          <div class="row">
+            <div class="col-md-5 pr-md-1">
+              <div class="form-group">
+                <label>Insert Tennis Player</label>
+                  <input name="name" type="text" class="form-control">
+                  <input type="submit" class="btn btn-fill btn-primary" value="Run"></input>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card ">
+    <div class="card-header">
+        {% if name %}
+            <h4 class="card-title">{{ name }} - Won Tournaments</h4>
+        {% else %}
+            <h4 class="card-title">Tennis Player - Won Tournaments</h4>
+        {% endif %}
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table tablesorter " id="">
+                <thead class=" text-primary">
+                <tr>
+                    <th class="text-center">
+                        Tournament Name
+                    </th>
+                    <th class="text-center">
+                        Surface
+                    </th>
+                    <th class="text-center">
+                        Date
+                    </th>
+                    <th class="text-center">
+                        Total prize
+                    </th>
+                </tr>
+                </thead>
+                <tbody id="player_results">
+                <script language="javascript" type="text/javascript">
+                    var tournaments = {{ tournaments | tojson }};
+                    var surfaces = {{ surfaces | tojson }};
+                    var start_dates = {{ start_dates | tojson }};
+                    var prizes = {{ prizes | tojson }};
+
+                    if (tournaments.length != 0) {
+                        for (var i = 0; i < tournaments.length; i++) {
+                            document.write("<tr>");
+                            document.write('<td class="text-center">' + tournaments[i] + "</td>");
+                            document.write('<td class="text-center">' + surfaces[i] + "</td>");
+                            document.write('<td class="text-center">' + start_dates[i] + "</td>");
+                            document.write('<td class="text-center">' + prizes[i] + "</td>");
+                            document.write("</tr>");
+                        }
+                    } else {
+                        document.write("<tr>");
+                        for (var j = 0; j < 4; j++) {
+                            document.write('<td class="text-center">' + "-" + "</td>");
+                        }
+                        document.write("</tr>");
+                    }
+                </script>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}

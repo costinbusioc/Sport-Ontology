@@ -1,0 +1,91 @@
+{% extends "base-site.html" %}
+
+{% block title %} Soccer graph {% endblock %}
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+<div class="row">
+  <div class="col-md-8">
+    <div class="card">
+      <div class="card-body">
+          <form method="post" action="">
+          <div class="row">
+            <div class="col-md-5 pr-md-1">
+                <div class="form-group">
+                    <label>Insert Soccer Team</label>
+                    <input name="team" type="text" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label>Insert Season</label>
+                    <input name="season" type="text" class="form-control">
+                </div>
+                <input type="submit" class="btn btn-fill btn-primary" value="Run"></input>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+    <div class="col-md-8">
+        <div class="card card-chart">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-sm-6 text-left">
+                        {% if data %}
+                            <h5 class="card-category">{{ data.team }} / {{ data.season }} - goals statistics</h5>
+                        {% else %}
+                            <h5 class="card-category">Soccer team - goals statistics</h5>
+                        {% endif %}
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="btn-group btn-group-toggle float-right" data-toggle="buttons">
+                          <label class="btn btn-sm btn-primary btn-simple active" id="0">
+                            <input type="radio" name="options" checked>
+                            <span class="d-none d-sm-block d-md-block d-lg-block d-xl-block">Goals Scored</span>
+                            <span class="d-block d-sm-none">
+                              <i class="tim-icons icon-single-02"></i>
+                            </span>
+                          </label>
+                          <label class="btn btn-sm btn-primary btn-simple" id="1">
+                            <input type="radio" class="d-none d-sm-none" name="options">
+                            <span class="d-none d-sm-block d-md-block d-lg-block d-xl-block">Goals Conceded</span>
+                            <span class="d-block d-sm-none">
+                              <i class="tim-icons icon-gift-2"></i>
+                            </span>
+                          </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="chart-area">
+                    <canvas id="chartLinePurple"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}
+
+    <script>
+        var labels = {{ data.months|safe }};
+        var values1 = {{ data.goals_for|safe }};
+        var values2 = {{ data.goals_against|safe }};
+
+        $(document).ready(function() {
+            // Javascript method's body can be found in assets/js/demos.js
+            demo.initBigChart(labels, values1, values2);
+        });
+    </script>
+
+{% endblock javascripts %}

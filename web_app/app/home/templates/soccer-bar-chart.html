@@ -1,0 +1,67 @@
+{% extends "base-site.html" %}
+
+{% block title %} Soccer Bar {% endblock %}
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+<div class="row">
+  <div class="col-md-8">
+    <div class="card">
+      <div class="card-body">
+          <form method="post" action="">
+          <div class="row">
+            <div class="col-md-5 pr-md-1">
+              <div class="form-group">
+                  <label>Insert Soccer Manager</label>
+                  <input name="name" type="text" class="form-control">
+                  <input type="submit" class="btn btn-fill btn-primary" value="Run"></input>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <div class="card card-chart">
+                <div class="card-header">
+                    {% if data %}
+                        <h5 class="card-category">{{ data.name }} - teams/country</h5>
+                        <h3 class="card-title"><i class="tim-icons icon-delivery-fast text-info"></i> {{ data.total }}</h3>
+                    {% else %}
+                        <h5 class="card-category">Manager - teams/country</h5>
+                    {% endif %}
+                </div>
+                    <div class="card-body">
+                        <div class="chart-area">
+                            <canvas id="CountryChart"></canvas>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}
+
+    <script>
+        var labels = {{ data.countries|safe }};
+        var values = {{ data.nr_teams|safe }};
+        var hoverTitle = "Countries";
+
+        $(document).ready(function() {
+            // Javascript method's body can be found in assets/js/demos.js
+            demo.initBarChart(labels, values, hoverTitle);
+        });
+    </script>
+
+{% endblock javascripts %}
