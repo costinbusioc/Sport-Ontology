@@ -75,12 +75,12 @@ for input_table in input_table_list:
 				":" + joinedTeam.replace(' ','_') + \
 				":" + season.replace("/", ":")
 			transfer_URI = URIRef(transfer_name)
-			player_URI = URIRef(ontology_root + player_name.replace(' ','_'))
+			player_URI = URIRef(ontology_root + player_name.replace(' ','_') + "_player")
 			joinedTeam_URI = URIRef(ontology_root + joinedTeam.replace(' ','_'))
 			leftTeam_URI = URIRef(ontology_root + leftTeam.replace(' ','_'))
 
 			g.add((transfer_URI, RDF.type, sport_ontology.Transfer))
-			g.add((player_URI, RDF.type, sport_ontology.FootballPlayer))
+			g.add((player_URI, RDF.type, dbpedia.SoccerPlayer))
 			g.add((joinedTeam_URI, RDF.type, sport_ontology.MultiPlayer))
 			g.add((leftTeam_URI, RDF.type, sport_ontology.MultiPlayer))
 

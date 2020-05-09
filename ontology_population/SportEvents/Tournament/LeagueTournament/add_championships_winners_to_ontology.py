@@ -62,7 +62,7 @@ for input_table in input_table_list:
 				g.add((championship_URI, dbpedia.endDateTime, Literal(end_date)))
 
 				if len(manager) > 3:
-					manager_URI = URIRef(ontology_root + manager.replace(' ','_'))
+					manager_URI = URIRef(ontology_root + manager.replace(' ','_') + "_manager")
 					g.add((manager_URI, RDF.type, sport_ontology.Manager))
 					g.add((manager_URI, FOAF.name, Literal(manager)))
 
@@ -107,7 +107,7 @@ for input_table in input_table_list:
 				g.add((championship_URI, dbpedia.endDateTime, Literal(end_date)))
 		
 				if len(manager) > 3:
-					manager_URI = URIRef(ontology_root + manager.replace(' ','_'))
+					manager_URI = URIRef(ontology_root + manager.replace(' ','_') + "_manager")
 					g.add((manager_URI, RDF.type, sport_ontology.Manager))
 					g.add((manager_URI, FOAF.name, Literal(manager)))
 

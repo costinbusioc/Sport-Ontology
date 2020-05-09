@@ -27,9 +27,11 @@ output_ontology = root + 'new_ontology.owl'
 
 ontology_root = "http://purl.org/sport/ontology/"
 dbpedia_root = "http://dbpedia.org/ontology/"
+foaf_root = "http://xmlns.com/foaf/0.1/"
 
 sport_ontology = Namespace(ontology_root)
 dbpedia = Namespace(dbpedia_root)
+foaf = Namespace(foaf_root)
 
 g = Graph()
 
@@ -52,18 +54,18 @@ for idx, row in df.iterrows():
 		if player_name == "9999" or player_nationality == "9999" or birthdate == "9999" or position == "9999" or club == "9999" or captain == "9999":
 			continue
 
-		player_URI = URIRef(ontology_root + player_name.replace(' ','_'))
+		player_URI = URIRef(ontology_root + player_name.replace(' ','_') + "_player")
 		nationality_URI = URIRef(ontology_root + player_nationality.replace(' ','_'))
 		club_URI = URIRef(ontology_root + club.replace(' ','_'))
 
-		g.add((player_URI, RDF.type, sport_ontology.FootballPlayer))
+		g.add((player_URI, RDF.type, dbpedia.SoccerPlayer))
 		g.add((nationality_URI, RDF.type, dbpedia.Country))
 		g.add((club_URI, RDF.type, sport_ontology.MultiPlayer))
 
 		g.add((player_URI, FOAF.name, Literal(player_name)))
 		g.add((club_URI, sport_ontology.hasTeamName, Literal(club)))
 		g.add((nationality_URI, dbpedia.informationName, Literal(player_nationality)))
-		g.add((player_URI, dbpedia.playerInTeam, club_URI))
+		g.add((club_URI, dbpedia.playerInTeam, player_URI))
 		g.add((player_URI, sport_ontology.hasGender, Literal('Male')))
 
 		g.add((player_URI, sport_ontology.hasNationality, nationality_URI))

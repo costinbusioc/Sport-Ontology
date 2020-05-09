@@ -11,9 +11,11 @@ output_ontology = root + 'new_ontology.owl'
 
 ontology_root = "http://purl.org/sport/ontology/"
 dbpedia_root = "http://dbpedia.org/ontology/"
+foaf_root = "http://xmlns.com/foaf/0.1/"
 
 sport_ontology = Namespace(ontology_root)
 dbpedia = Namespace(dbpedia_root)
+foaf = Namespace(foaf_root)
 
 g = Graph()
 
@@ -36,7 +38,7 @@ for idx, row in df.iterrows():
 
 		team_name_URI = URIRef(ontology_root + team_name.replace(' ','_'))
 		country_URI = URIRef(ontology_root + country.replace(' ','_'))
-		coach_URI = URIRef(ontology_root + coach.replace(' ','_'))
+		coach_URI = URIRef(ontology_root + coach.replace(' ','_') + "_manager")
 
 		g.add((team_name_URI, RDF.type, sport_ontology.MultiPlayer))
 		g.add((country_URI, RDF.type, dbpedia.Country))
