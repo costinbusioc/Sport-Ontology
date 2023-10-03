@@ -8,3 +8,4 @@ flask_migrate
 flask_wtf
 SPARQLWrapper
 black
+urllib3>=1.26.17 # not directly required, pinned by Snyk to avoid a vulnerability
